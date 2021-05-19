@@ -1373,3 +1373,261 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.19-13.31.21:451][415]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.19-13.31.21:451][415]LogContentValidation: Display: Validating World /Game/ArchVisVR/Maps/Overview.Overview
 [2021.05.19-13.31.21:451][415]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArchVisVR/Maps/Overview_BuiltData.Overview_BuiltData
+[2021.05.19-13.34.43:755][196]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.19-13.34.43:755][196]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.19-13.34.52:561][878]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush45)
+[2021.05.19-13.35.37:047][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2021.05.19-13.35.53:305][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2021.05.19-13.36.40:687][697]LogEditorViewport: Clicking on Actor (LMB): Door_Interactive_BP_C (Door_Interactive_BP2)
+[2021.05.19-13.36.42:913][847]Cmd: EDIT COPY
+[2021.05.19-13.36.43:151][865]Cmd: EDIT PASTE
+[2021.05.19-13.36.55:420][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SlidingDoors2)
+[2021.05.19-13.36.56:613][565]LogEditorViewport: Clicking on Actor (CTRL LMB): Door_Interactive_BP_C (Door_Interactive_BP4)
+[2021.05.19-13.36.57:208][605]LogEditorViewport: Clicking on Actor (CTRL LMB): Door_Interactive_BP_C (Door_Interactive_BP3)
+[2021.05.19-13.37.21:194][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorSkySphere)
+[2021.05.19-13.37.23:137][453]Cmd: DELETE
+[2021.05.19-13.37.23:137][453]Cmd: ACTOR DELETE
+[2021.05.19-13.37.23:151][453]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.19-13.37.23:163][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.05.19-13.37.23:166][453]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.05.19-13.37.25:448][631]Cmd: TRANSACTION UNDO
+[2021.05.19-13.37.25:449][631]LogEditorTransaction: Undo Delete Actors
+[2021.05.19-13.37.50:356][174]LogRenderer: Reallocating scene render targets to support 1024x1024 Format 10 NumSamples 1 (Frame:1).
+[2021.05.19-13.41.21:238][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.05.19-13.41.21:388][766]LogSavePackage: Moving '../../../../../ghjtrn/KamazMuseum/KamazRES/Saved/Overview_Auto2F9E3E5674A313BF96B9D53A201C55C07.tmp' to '../../../../../ghjtrn/KamazMuseum/KamazRES/Saved/Autosaves/Game/ArchVisVR/Maps/Overview_Auto2.umap'
+[2021.05.19-13.41.21:391][766]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArchVisVR/Maps/Overview' took 0.166
+[2021.05.19-13.41.21:391][766]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.166
+[2021.05.19-13.47.14:740][527]Cmd: EDIT CUT
+[2021.05.19-13.47.14:761][527]LogEditorActor: Deleted Actor: Brush
+[2021.05.19-13.47.14:761][527]LogEditorActor: Deleted Actor: Brush
+[2021.05.19-13.47.14:762][527]LogEditorActor: Deleted Actor: Brush
+[2021.05.19-13.47.14:773][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.05.19-13.47.14:846][527]LogEditorActor: Deleted 3 Actors (0.104 secs)
+[2021.05.19-13.47.15:759][613]Cmd: TRANSACTION UNDO
+[2021.05.19-13.47.15:759][613]LogEditorTransaction: Undo Cut
+[2021.05.19-13.47.16:283][620]Cmd: TRANSACTION UNDO
+[2021.05.19-13.47.16:283][620]LogEditorTransaction: Undo Move Actors
+[2021.05.19-13.47.16:333][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1957' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:333][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1957.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:333][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1958' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:333][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1958.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:334][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1959' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:334][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1959.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:334][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1960' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:334][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1960.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:334][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1961' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:334][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1961.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:335][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1962' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:335][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1962.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:335][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1963' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:335][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1963.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:336][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1964' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:336][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1964.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:336][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1965' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:336][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1965.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:336][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1966' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:336][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1966.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:336][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1967' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:336][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1967.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:337][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1968' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:337][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1968.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:337][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1969' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:337][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1969.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:337][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1970' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:337][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1970.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:337][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1971' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:337][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1971.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:338][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1972' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:338][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1972.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:338][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1973' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:338][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1973.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:338][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1974' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:338][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1974.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.16:338][620]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1975' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.16:338][620]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1975.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.28:276][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVisVR/Maps/Overview" FILE="../../../../../ghjtrn/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.19-13.47.28:287][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.05.19-13.47.28:434][310]LogSavePackage: Moving '../../../../../ghjtrn/KamazMuseum/KamazRES/Saved/Overview72773F3647D372207872B7BEDA37B785.tmp' to '../../../../../ghjtrn/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview.umap'
+[2021.05.19-13.47.28:459][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVisVR/Maps/Overview_BuiltData" FILE="../../../../../ghjtrn/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview_BuiltData.uasset" SILENT=true
+[2021.05.19-13.47.28:557][310]LogSavePackage: Moving '../../../../../ghjtrn/KamazMuseum/KamazRES/Saved/Overview_BuiltData9B38317E4A8AD8CFBC6FFEB6088EEB5A.tmp' to '../../../../../ghjtrn/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview_BuiltData.uasset'
+[2021.05.19-13.47.28:576][310]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.19-13.47.28:576][310]LogContentValidation: Display: Validating World /Game/ArchVisVR/Maps/Overview.Overview
+[2021.05.19-13.47.28:576][310]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArchVisVR/Maps/Overview_BuiltData.Overview_BuiltData
+[2021.05.19-13.47.37:340][994]Cmd: TRANSACTION UNDO
+[2021.05.19-13.47.37:340][994]LogEditorTransaction: Undo Move Actors
+[2021.05.19-13.47.37:399][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1957' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:399][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1957.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:399][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1958' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:399][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1958.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:400][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1959' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:400][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1959.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:400][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1960' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:400][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1960.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:400][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1961' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:400][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1961.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:401][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1962' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:401][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1962.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:402][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1963' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:402][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1963.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:402][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1964' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:402][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1964.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:403][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1965' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:403][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1965.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:403][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1966' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:403][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1966.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:404][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1967' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:404][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1967.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:404][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1968' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:404][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1968.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:405][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1969' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:405][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1969.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:405][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1970' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:405][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1970.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:405][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1971' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:406][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1971.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:406][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1972' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:406][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1972.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:406][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1973' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:406][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1973.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:406][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1974' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:406][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1974.BodySetup_0 when we are unable to.
+[2021.05.19-13.47.37:407][994]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1975' invalid (6308 verts, 0 indices).
+[2021.05.19-13.47.37:407][994]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_1975.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:079][ 23]Cmd: TRANSACTION UNDO
+[2021.05.19-13.48.29:079][ 23]LogEditorTransaction: Undo Move Actors
+[2021.05.19-13.48.29:159][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2052' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:160][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2052.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:160][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2053' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:160][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2053.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:160][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2054' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:160][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2054.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:160][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2055' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:160][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2055.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:161][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2056' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:161][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2056.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:161][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2057' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:161][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2057.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:162][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2058' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:162][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2058.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:162][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2059' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:162][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2059.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:162][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2060' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:162][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2060.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:163][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2061' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:163][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2061.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:163][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2062' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:163][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2062.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:163][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2063' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:163][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2063.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:163][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2064' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:164][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2064.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:164][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2065' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:164][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2065.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:164][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2066' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:164][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2066.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:164][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2067' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:164][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2067.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:165][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2068' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:165][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2068.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:165][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2069' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:165][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2069.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.29:165][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2070' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.29:165][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2070.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.43:459][829]Cmd: DUPLICATE
+[2021.05.19-13.48.43:460][829]Cmd: ACTOR DUPLICATE
+[2021.05.19-13.48.47:830][103]Cmd: TRANSACTION UNDO
+[2021.05.19-13.48.47:830][103]LogEditorTransaction: Undo Move Actors
+[2021.05.19-13.48.51:282][266]Cmd: TRANSACTION UNDO
+[2021.05.19-13.48.51:282][266]LogEditorTransaction: Undo Move Actors
+[2021.05.19-13.48.53:075][363]Cmd: TRANSACTION UNDO
+[2021.05.19-13.48.53:075][363]LogEditorTransaction: Undo Duplicate Actors
+[2021.05.19-13.48.53:144][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2052' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:144][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2052.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:145][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2053' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:145][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2053.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:145][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2054' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:145][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2054.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:145][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2055' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:145][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2055.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:145][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2056' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:145][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2056.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:145][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2057' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:146][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2057.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:146][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2058' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:146][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2058.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:146][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2059' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:146][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2059.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:146][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2060' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:146][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2060.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:147][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2061' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:147][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2061.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:147][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2062' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:147][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2062.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:147][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2063' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:147][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2063.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:147][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2064' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:147][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2064.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:147][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2065' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:147][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2065.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:148][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2066' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:148][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2066.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:148][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2067' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:148][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2067.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:148][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2068' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:148][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2068.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:148][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2069' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:148][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2069.BodySetup_0 when we are unable to.
+[2021.05.19-13.48.53:148][363]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2070' invalid (6308 verts, 0 indices).
+[2021.05.19-13.48.53:148][363]LogPhysics: Warning: Attempt to build physics data for /Game/ArchVisVR/Maps/Overview.Overview:PersistentLevel.ModelComponent_2070.BodySetup_0 when we are unable to.
+[2021.05.19-13.52.25:246][125]Cmd: TRANSACTION UNDO
+[2021.05.19-13.52.25:246][125]LogEditorTransaction: Undo Set Location
+[2021.05.19-13.56.20:498][366]Cmd: SELECT NONE
+[2021.05.19-13.56.31:099][104]Cmd: TRANSACTION UNDO
+[2021.05.19-13.56.31:100][104]LogEditorTransaction: Undo Move Actors
+[2021.05.19-13.57.00:474][ 97]Cmd: SELECT NONE
+[2021.05.19-13.57.32:202][900]LogEditorViewport: Clicking on Actor (LMB): Door_Interactive_2_BP_C (Door_Interactive_2_BP)
+[2021.05.19-13.57.37:428][121]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane5)
+[2021.05.19-13.57.43:661][381]Cmd: TRANSACTION UNDO
+[2021.05.19-13.57.43:662][381]LogEditorTransaction: Undo Move Actors
+[2021.05.19-13.57.48:264][582]LogEditorViewport: Clicking on Actor (LMB): Door_Interactive_2_BP_C (Door_Interactive_2_BP3)
+[2021.05.19-13.57.49:155][626]Cmd: DELETE
+[2021.05.19-13.57.49:155][626]Cmd: ACTOR DELETE
+[2021.05.19-13.57.49:194][626]LogEditorActor: Deleted Actor: Door_Interactive_2_BP_C
+[2021.05.19-13.57.49:219][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.05.19-13.57.49:224][626]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2021.05.19-13.57.49:880][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame3)
+[2021.05.19-13.57.49:996][669]Cmd: DELETE
+[2021.05.19-13.57.49:996][669]Cmd: ACTOR DELETE
+[2021.05.19-13.57.50:018][669]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.19-13.57.50:027][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.05.19-13.57.50:029][669]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.05.19-13.59.16:650][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.05.19-13.59.16:794][839]LogSavePackage: Moving '../../../../../ghjtrn/KamazMuseum/KamazRES/Saved/Overview_Auto3C85E1AE24AA74B9A662BD5ADD00C5718.tmp' to '../../../../../ghjtrn/KamazMuseum/KamazRES/Saved/Autosaves/Game/ArchVisVR/Maps/Overview_Auto3.umap'
+[2021.05.19-13.59.16:797][839]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArchVisVR/Maps/Overview' took 0.160
+[2021.05.19-13.59.16:797][839]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.160
+[2021.05.19-13.59.51:596][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.05.19-14.00.01:617][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.05.19-14.00.02:896][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.05.19-14.00.06:307][490]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2021.05.19-14.00.09:641][652]Cmd: DELETE
+[2021.05.19-14.00.09:642][652]Cmd: ACTOR DELETE
+[2021.05.19-14.00.09:671][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.19-14.00.09:685][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.05.19-14.00.09:689][652]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2021.05.19-14.00.14:444][926]Cmd: EDIT COPY
+[2021.05.19-14.00.14:762][948]Cmd: EDIT PASTE
+[2021.05.19-14.01.04:487][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2021.05.19-14.01.41:817][346]Cmd: DELETE
+[2021.05.19-14.01.41:817][346]Cmd: ACTOR DELETE
+[2021.05.19-14.01.41:851][346]LogEditorActor: Deleted Actor: Character
+[2021.05.19-14.01.41:873][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.05.19-14.01.41:881][346]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2021.05.19-14.01.57:469][668]LogEditorViewport: Clicking on Actor (LMB): Door_Interactive_2_BP_C (Door_Interactive_2_BP)
+[2021.05.19-14.01.58:441][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVisVR/Maps/Overview" FILE="../../../../../ghjtrn/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.19-14.01.58:454][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.05.19-14.01.58:608][706]LogSavePackage: Moving '../../../../../ghjtrn/KamazMuseum/KamazRES/Saved/Overview026BA80D479EEE0FC3F2CD9F7CC77549.tmp' to '../../../../../ghjtrn/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview.umap'
+[2021.05.19-14.01.58:642][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVisVR/Maps/Overview_BuiltData" FILE="../../../../../ghjtrn/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview_BuiltData.uasset" SILENT=true
+[2021.05.19-14.01.58:769][706]LogSavePackage: Moving '../../../../../ghjtrn/KamazMuseum/KamazRES/Saved/Overview_BuiltData766786B445139294E6B514BB9565CB3A.tmp' to '../../../../../ghjtrn/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview_BuiltData.uasset'
+[2021.05.19-14.01.58:787][706]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.19-14.01.58:787][706]LogContentValidation: Display: Validating World /Game/ArchVisVR/Maps/Overview.Overview
+[2021.05.19-14.01.58:788][706]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArchVisVR/Maps/Overview_BuiltData.Overview_BuiltData
