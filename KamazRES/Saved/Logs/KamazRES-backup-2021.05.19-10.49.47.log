@@ -1,0 +1,1302 @@
+﻿Log file open, 05/19/21 13:35:34
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: KamazRES
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.174987
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: FOculusHMDModule PreInit successfully
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/unreal/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+[2021.05.19-10.35.34:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.19-10.35.34:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+[2021.05.19-10.35.34:728][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+[2021.05.19-10.35.34:733][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.19-10.35.34:733][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.19-10.35.34:734][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.19-10.35.34:734][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.19-10.35.34:734][  0]LogHAL: Display: Platform has ~ 16 GB [17108312064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.19-10.35.34:734][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.19-10.35.34:734][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.19-10.35.34:734][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.19-10.35.34:735][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+[2021.05.19-10.35.34:735][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Editor.ini]
+[2021.05.19-10.35.34:735][  0]LogInit: Computer: DESKTOP-0J1NFDI
+[2021.05.19-10.35.34:736][  0]LogInit: User: User
+[2021.05.19-10.35.34:736][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.19-10.35.34:736][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.19-10.35.34:736][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.19-10.35.34:736][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.19-10.35.34:736][  0]LogMemory: Process Physical Memory: 139.13 MB used, 139.14 MB peak
+[2021.05.19-10.35.34:736][  0]LogMemory: Process Virtual Memory: 121.36 MB used, 121.36 MB peak
+[2021.05.19-10.35.34:736][  0]LogMemory: Physical Memory: 6403.92 MB used,  9911.84 MB free, 16315.76 MB total
+[2021.05.19-10.35.34:736][  0]LogMemory: Virtual Memory: 134213288.00 MB used,  4435.98 MB free, 134217728.00 MB total
+[2021.05.19-10.35.34:739][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.19-10.35.34:754][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.19-10.35.34:754][  0]LogInit: Using OS detected language (ru-RU).
+[2021.05.19-10.35.34:754][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.05.19-10.35.34:756][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.05.19-10.35.34:756][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.05.19-10.35.34:756][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.05.19-10.35.34:756][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.05.19-10.35.34:756][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.05.19-10.35.34:756][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.05.19-10.35.34:756][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.05.19-10.35.34:757][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.05.19-10.35.34:757][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.19-10.35.34:764][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.19-10.35.34:772][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.19-10.35.34:772][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.19-10.35.34:865][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.19-10.35.34:865][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.19-10.35.34:865][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.19-10.35.34:912][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.05.19-10.35.34:912][  0]LogD3D11RHI:       5980/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.19-10.35.34:914][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.19-10.35.34:914][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.19-10.35.34:914][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.19-10.35.34:918][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.19-10.35.34:918][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.19-10.35.34:918][  0]LogWindows: EnumDisplayDevices:
+[2021.05.19-10.35.34:918][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2021.05.19-10.35.34:918][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.05.19-10.35.34:918][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.05.19-10.35.34:919][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.05.19-10.35.34:919][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.19-10.35.34:919][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.05.19-10.35.34:919][  0]LogD3D11RHI:   Driver Version: 419.67 (internal:25.21.14.1967, unified:419.67)
+[2021.05.19-10.35.34:919][  0]LogD3D11RHI:      Driver Date: 3-17-2019
+[2021.05.19-10.35.34:919][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.05.19-10.35.34:951][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.19-10.35.34:951][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.19-10.35.34:951][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.19-10.35.34:968][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.05.19-10.35.34:969][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.19-10.35.35:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.19-10.35.35:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.19-10.35.35:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.19-10.35.35:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.19-10.35.35:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.19-10.35.35:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.19-10.35.35:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.19-10.35.35:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.19-10.35.35:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.19-10.35.35:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.19-10.35.35:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.19-10.35.35:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.19-10.35.35:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.19-10.35.35:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.19-10.35.35:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.19-10.35.35:238][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.19-10.35.35:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.19-10.35.35:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.19-10.35.35:257][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.19-10.35.35:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.19-10.35.35:281][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.19-10.35.35:281][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.19-10.35.35:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.19-10.35.35:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.19-10.35.35:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.19-10.35.35:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.19-10.35.35:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.19-10.35.35:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.19-10.35.35:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.19-10.35.35:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.19-10.35.35:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.19-10.35.35:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.19-10.35.35:341][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.19-10.35.35:346][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.19-10.35.35:385][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.19-10.35.35:385][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../gitclones/KamazMuseum/KamazRES/Intermediate/Shaders/WorkingDirectory/7644/).
+[2021.05.19-10.35.35:385][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/A3C5AAEB4CAE6656A5372C980B4E79FD/'.
+[2021.05.19-10.35.35:386][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.19-10.35.35:386][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.19-10.35.36:060][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.19-10.35.36:112][  0]LogDerivedDataCache: Loaded boot cache 0.05s 101MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.19-10.35.36:112][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.19-10.35.36:113][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../gitclones/KamazMuseum/KamazRES/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.19-10.35.36:113][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.19-10.35.36:113][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../gitclones/KamazMuseum/KamazRES/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.19-10.35.36:113][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.19-10.35.36:123][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.19-10.35.36:123][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.19-10.35.36:123][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.19-10.35.36:127][  0]LogDerivedDataCache: Speed tests for C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2021.05.19-10.35.36:127][  0]LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1725.48MBs, RandomWriteSpeed=313.37MBs. Assigned SpeedClass 'Local'
+[2021.05.19-10.35.36:127][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.19-10.35.36:127][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.19-10.35.36:127][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.19-10.35.36:171][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.19-10.35.36:171][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.19-10.35.36:190][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.05.19-10.35.36:377][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.19-10.35.36:377][  0]LogInit: Active device profile: [0000020232B87700][00000202337EEE00 49] Windows
+[2021.05.19-10.35.36:377][  0]LogInit: Profiles: [0000020232B87700][00000202337EEE00 49] Windows, [0000020232B54A00][00000202337F6F80 49] WindowsNoEditor, [0000020232B84B00][00000202337FB100 49] WindowsServer, [0000020232B57000][0000020233803280 49] WindowsClient, [0000020232B86F00][0000020233807400 49] IOS, [0000020232B55300][000002023380B580 49] iPadAir, [0000020232B85200][00000202337F36C0 49] iPadAir2, [00000202329C4A00][0000020233817900 49] IPadPro, [00000202329C4B00][0000020233813940 49] iPadAir3, [0000020232B86A00][000002023381BA80 49] iPadAir4, [00000202329C7900][0000020233823C00 49] iPadMini2, [0000020232B85600][00000202338260C0 49] iPadMini3, [00000202329C5F00][000002023382A240 49] iPadMini4, [0000020232B87B00][000002023382E3C0 49] iPadMini5, [0000020232B54600][0000020233836680 49] iPhone6, [0000020232B55C00][00000202338326C0 49] iPodTouch6, [00000202329C7200][0000020233856980 49] iPhone7, [00000202329B3F00][000002023383A9C0 49] iPodTouch7, [0000020232B57900][000002023385AB40 49] iPhone5S, [00000202329B1000][000002023385ECC0 49] iPhone6Plus, [0000020232B55000][0000020233862E40 49] iPhone6S, [00000202329B2B00][0000020233866FC0 49] iPhone6SPlus, [0000020232B54400][000002023386B140 49] iPhone7Plus, [00000202329B1700][000002023388F2C0 49] iPhoneSE, [0000020232B57C00][0000020233893440 49] iPhone8, [00000202329B3B00][00000202338975C0 49] iPhone8Plus, [0000020232B55D00][000002023381F700 49] iPhoneX, [00000202329B0A00][000002023389B840 49] iPhoneXS, [0000020232B57400][0000020216341980 49] iPhoneXSMax, [00000202329B2E00][0000020216345AC0 49] iPhoneXR, [0000020232B56900][000002021634DC40 49] iPhone11, [00000202329B3700][0000020216350100 49] iPhone11Pro, [0000020232B57100][0000020216354280 49] iPhone11ProMax, [00000202329B3E00][0000020216358400 49] iPhoneSE2, [0000020232B54D00][000002021635C580 49] iPhone12Mini, [00000202329B0800][0000020216360700 49] iPhone12, [0000020232B55700][0000020216364880 49] iPhone12Pro, [00000202329B2300][0000020216368A00 49] iPhone12ProMax, [0000020232B54800][000002021636CB80 49] iPadPro105, [00000202329B3000][0000020216370D00 49] iPadPro129, [0000020232B57D00][0000020216374E80 49] iPadPro97, [00000202329B2500][0000020216379000 49] iPadPro2_129, [0000020232B55200][000002021637D180 49] iPad5, [00000202329B0C00][0000020216381300 49] iPad6, [0000020232B55B00][0000020216385480 49] iPad7, [00000202329B3C00][0000020216389600 49] iPad8, [0000020232B55500][000002021638D780 49] iPadPro11, [00000202329B3100][00000202163498C0 49] iPadPro2_11, [0000020232B56600][00000202338B1A00 49] iPadPro3_129, [00000202329B1F00][00000202338B5B40 49] iPadPro4_129, [0000020232B54200][00000202338BDCC0 49] AppleTV, [00000202329B3600][00000202338C0180 49] AppleTV4K, [0000020232B54C00][00000202338C4300 49] TVOS, [00000202329B2A00][00000202338C8480 49] Mac, [0000020232B55600][00000202338CC600 49] MacClient, [00000202329B3900][00000202338D0780 49] MacNoEditor, [0000020232B54B00][00000202338D4900 49] MacServer, [00000202329B2900][00000202338D8A80 49] Linux, [0000020232B56A00][00000202338DCC00 49] LinuxAArch64, [00000202329B0700][00000202338E0D80 49] LinuxNoEditor, [0000020232B57500][00000202338E4F00 49] LinuxAArch64NoEditor, [00000202329B0B00][00000202338E9080 49] LinuxClient, [0000020232B56500][00000202338ED200 49] LinuxAArch64Client, [00000202329B1500][00000202338F1380 49] LinuxServer, [0000020232B54E00][00000202338F5500 49] LinuxAArch64Server, [0000020232D2C700][00000202338F9680 49] Android, [00000202329C4E00][00000202338FD800 49] Android_Low, [0000020232D2C100][00000202338B9940 49] Android_Mid, [00000202329C6600][0000020233901A80 49] Android_High, [0000020232D2C500][0000020233905BC0 49] Android_Default, [00000202329C7000][0000020233909D00 49] Android_Adreno4xx, [0000020232D2DF00][00000202339101C0 49] Android_Adreno5xx_Low, [00000202329C5500][0000020233914340 49] Android_Adreno5xx, [0000020232D2DB00][00000202339184C0 49] Android_Adreno6xx, [00000202329C5800][000002023391C640 49] Android_Adreno6xx_Vulkan, [0000020232D2CC00][00000202339207C0 49] Android_Mali_T6xx, [00000202329C6B00][0000020233924940 49] Android_Mali_T7xx, [0000020232D2CA00][0000020233928AC0 49] Android_Mali_T8xx, [00000202329C5100][000002023392CC40 49] Android_Mali_G71, [0000020232D2D800][0000020233930DC0 49] Android_Mali_G72, [00000202329C7300][0000020233934F40 49] Android_Mali_G72_Vulkan, [0000020232D2C800][00000202339390C0 49] Android_Mali_G76, [00000202329B3400][000002023393D240 49] Android_Mali_G76_Vulkan, [0000020232B55400][00000202339413C0 49] Android_Mali_G77, [00000202329B2600][0000020233945540 49] Android_Mali_G77_Vulkan, [0000020232B54900][00000202339496C0 49] Android_Vulkan_SM5, [00000202329B2F00][000002023394D840 49] Android_PowerVR_G6xxx, [0000020232B56D00][000002023390D980 49] Android_PowerVR_GT7xxx, [00000202329B1400][0000020233951AC0 49] Android_PowerVR_GE8xxx, [0000020232B56000][0000020233955C00 49] Android_PowerVR_GM9xxx, [00000202329B0D00][0000020233959D40 49] Android_PowerVR_GM9xxx_Vulkan, [0000020232B56F00][0000020233960200 49] Android_TegraK1, [00000202329B1900][0000020233964380 49] Android_Unknown_Vulkan, [0000020232B55800][0000020233968500 49] Lumin, [00000202329B3A00][000002023396C680 49] Lumin_Desktop, [0000020232B56B00][0000020233970800 49] HoloLens, 
+[2021.05.19-10.35.36:472][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.19-10.35.36:472][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.19-10.35.36:472][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.19-10.35.36:472][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.19-10.35.36:472][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.19-10.35.36:485][  0]LogNetVersion: KamazRES 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3109468978)
+[2021.05.19-10.35.36:855][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.19-10.35.36:876][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.021311 seconds
+[2021.05.19-10.35.36:881][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.19-10.35.36:881][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.19-10.35.36:881][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.19-10.35.37:102][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.19-10.35.37:106][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.19-10.35.37:221][  0]LogLinker: Warning: Failed to load '/Game/ArchVisVR/Blueprints/Tutorial_1': Can't find file.
+[2021.05.19-10.35.37:221][  0]LogLinker: Warning: Failed to load '/Game/ArchVisVR/Blueprints/Tutorial_1': Can't find file.
+[2021.05.19-10.35.37:221][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ArchVisVR/Blueprints/Tutorial_1.Tutorial_1_C'
+[2021.05.19-10.35.37:240][  0]SourceControl: Source control is disabled
+[2021.05.19-10.35.37:511][  0]LogUProjectInfo: Found projects:
+[2021.05.19-10.35.37:678][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.19-10.35.37:694][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.19-10.35.37:694][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.19-10.35.37:731][  0]LogCollectionManager: Loaded 0 collections in 0.000501 seconds
+[2021.05.19-10.35.37:748][  0]LogFileCache: Scanning file cache for directory 'D:/gitclones/KamazMuseum/KamazRES/Saved/Collections/' took 0.00s
+[2021.05.19-10.35.37:748][  0]LogFileCache: Scanning file cache for directory 'D:/gitclones/KamazMuseum/KamazRES/Content/Developers/User/Collections/' took 0.00s
+[2021.05.19-10.35.37:748][  0]LogFileCache: Scanning file cache for directory 'D:/gitclones/KamazMuseum/KamazRES/Content/Collections/' took 0.00s
+[2021.05.19-10.35.37:748][  0]LogOcInput: OculusInput pre-init called
+[2021.05.19-10.35.37:949][  0]LogEngine: Initializing Engine...
+[2021.05.19-10.35.37:950][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.19-10.35.37:950][  0]LogHMD: Initializing OVRPlugin session
+[2021.05.19-10.35.38:035][  0]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2021.05.19-10.35.38:035][  0]LogHMD: Oculus plugin initialized. Version: 4.26.2-15973114+++UE4+Release-4.26, OVRPlugin: 1.51.0
+[2021.05.19-10.35.38:036][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.19-10.35.38:175][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.19-10.35.38:182][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.19-10.35.38:189][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.19-10.35.38:192][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.19-10.35.38:192][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.19-10.35.38:192][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-10.35.38:192][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-10.35.38:192][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-10.35.38:192][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-10.35.38:192][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-10.35.38:192][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-10.35.38:193][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-10.35.38:193][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-10.35.38:193][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-10.35.38:193][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-10.35.38:203][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-10.35.38:203][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-10.35.38:227][  0]LogAudioMixer: Display: Using Audio Device Наушники (Rift S)
+[2021.05.19-10.35.38:227][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-10.35.38:228][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-10.35.38:228][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-10.35.38:229][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-10.35.38:229][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-10.35.38:229][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.19-10.35.38:230][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-10.35.38:230][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-10.35.38:230][  0]LogInit: FAudioDevice initialized.
+[2021.05.19-10.35.38:230][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.19-10.35.38:230][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.19-10.35.38:291][  0]LogDerivedDataCache: Saved boot cache 0.06s 101MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.19-10.35.38:294][  0]LogInit: Texture streaming: Enabled
+[2021.05.19-10.35.38:303][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.19-10.35.38:306][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.19-10.35.38:306][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.19-10.35.38:307][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.19-10.35.38:323][  0]LogInit: Transaction tracking system initialized
+[2021.05.19-10.35.38:338][  0]BlueprintLog: New page: Editor Load
+[2021.05.19-10.35.38:387][  0]LocalizationService: Localization service is disabled
+[2021.05.19-10.35.38:403][  0]TimingProfiler: Initialize
+[2021.05.19-10.35.38:403][  0]TimingProfiler: OnSessionChanged
+[2021.05.19-10.35.38:403][  0]LoadingProfiler: Initialize
+[2021.05.19-10.35.38:403][  0]LoadingProfiler: OnSessionChanged
+[2021.05.19-10.35.38:403][  0]NetworkingProfiler: Initialize
+[2021.05.19-10.35.38:403][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.19-10.35.38:403][  0]MemoryProfiler: Initialize
+[2021.05.19-10.35.38:403][  0]MemoryProfiler: OnSessionChanged
+[2021.05.19-10.35.38:493][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.19-10.35.38:493][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.19-10.35.38:546][  0]LogFileCache: Scanning file cache for directory 'D:/gitclones/KamazMuseum/KamazRES/Content/' took 0.00s
+[2021.05.19-10.35.38:754][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.19-10.35.38:757][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.732
+[2021.05.19-10.35.38:757][  0]Cmd: MAP LOAD FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.19-10.35.38:757][  0]LightingResults: New page: Lighting Build
+[2021.05.19-10.35.38:757][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-10.35.38:757][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-10.35.38:757][  0]MapCheck: New page: Map Check
+[2021.05.19-10.35.38:757][  0]LightingResults: New page: Lighting Build
+[2021.05.19-10.35.38:763][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.05.19-10.35.38:780][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Blueprints/Option/OptionHandler_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:794][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK_HandlerSingle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:794][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK_HandlerSingle_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:795][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/Male_Hand_AnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:796][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/Male_Hand_CanGrab.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:796][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/SK_Male_Hand_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:796][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/Male_Hand_Grip.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:797][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/Male_Hand_Idle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:797][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/OptionSelect_BS.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:797][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/Male_Hand_Pointer.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:806][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SM_OptionMesh.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:818][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/SK_Male_Hand.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:818][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Materials/M_Male_Hand.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:820][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SM_BeamMesh.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:827][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SM_FloorMap.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:827][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Materials/MI_FloorMap.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:827][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Textures/T_Floor_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:829][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Blueprints/Option/TabletTeleporterOption_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:831][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SM_PlayerIcon.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:833][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SM_Tablet.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:834][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SM_OptionMesh_Circle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:834][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Materials/Option/MI_Option_Circle_Holo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:834][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Textures/OptionMap_Circle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.38:835][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Materials/Option/MI_TabletOption.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.05.19-10.35.39:437][  0]LogSkeletalMesh: Building Skeletal Mesh SK_HandlerSingle...
+[2021.05.19-10.35.39:438][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ArchVisVR/Meshes/SK_HandlerSingle.SK_HandlerSingle
+[2021.05.19-10.35.39:440][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2021.05.19-10.35.39:441][  0]LogAIModule: Creating AISystem for world Overview
+[2021.05.19-10.35.39:450][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.19-10.35.39:467][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.05.19-10.35.39:468][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.19-10.35.39:468][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,096ms to complete.
+[2021.05.19-10.35.39:468][  0]LogFileHelpers: Loading map 'Overview' took 0.712
+[2021.05.19-10.35.39:469][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.446
+[2021.05.19-10.35.39:569][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-10.35.39:574][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-10.35.39:580][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-10.35.39:586][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-10.35.39:597][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0079 seconds. Added 3601 classes and 859 folders.
+[2021.05.19-10.35.39:599][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.19-10.35.39:600][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.19-10.35.39:600][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:600][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.19-10.35.39:600][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.05.19-10.35.39:601][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.19-10.35.39:601][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:601][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.19-10.35.39:601][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.05.19-10.35.39:601][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.19-10.35.39:601][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:601][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.19-10.35.39:601][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.05.19-10.35.39:602][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.19-10.35.39:602][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:602][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.19-10.35.39:602][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.05.19-10.35.39:602][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.19-10.35.39:602][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:602][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.19-10.35.39:602][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.05.19-10.35.39:602][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.19-10.35.39:602][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:602][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.19-10.35.39:602][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.05.19-10.35.39:603][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.19-10.35.39:603][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:603][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.19-10.35.39:603][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.05.19-10.35.39:603][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.19-10.35.39:603][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:603][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.19-10.35.39:603][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.05.19-10.35.39:603][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.19-10.35.39:603][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:603][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.19-10.35.39:603][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.05.19-10.35.39:604][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.19-10.35.39:604][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:604][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.19-10.35.39:604][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.05.19-10.35.39:604][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.19-10.35.39:604][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:604][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.19-10.35.39:604][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.05.19-10.35.39:604][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.19-10.35.39:604][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:604][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.19-10.35.39:604][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.05.19-10.35.39:605][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.19-10.35.39:605][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:605][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.19-10.35.39:605][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.05.19-10.35.39:605][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.19-10.35.39:605][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:605][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.19-10.35.39:605][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.19-10.35.39:606][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.19-10.35.39:606][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:606][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.19-10.35.39:606][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.05.19-10.35.39:606][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.19-10.35.39:606][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:606][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.19-10.35.39:606][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.05.19-10.35.39:606][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.19-10.35.39:606][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:606][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.19-10.35.39:606][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.05.19-10.35.39:607][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.19-10.35.39:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.19-10.35.39:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.05.19-10.35.39:607][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.19-10.35.39:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.19-10.35.39:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.05.19-10.35.39:607][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.19-10.35.39:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.19-10.35.39:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.05.19-10.35.39:608][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.19-10.35.39:608][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:608][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.19-10.35.39:608][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.05.19-10.35.39:608][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.19-10.35.39:608][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:608][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.19-10.35.39:608][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.05.19-10.35.39:609][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.19-10.35.39:609][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:609][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.19-10.35.39:609][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.05.19-10.35.39:609][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.19-10.35.39:609][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:609][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.19-10.35.39:609][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.05.19-10.35.39:610][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.19-10.35.39:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.19-10.35.39:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.05.19-10.35.39:610][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.19-10.35.39:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-10.35.39:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.19-10.35.39:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.05.19-10.35.39:638][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.05.19-10.35.39:639][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.05.19-10.35.39:717][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.19-10.35.39:718][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.19-10.35.39:722][  0]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.19-10.35.39:793][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.05.19-10.35.39:879][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.19-10.35.39:879][  0]LogInput: Warning: Action TeleportRight uses invalid key OculusGo_Right_Trackpad_Click.
+[2021.05.19-10.35.39:879][  0]LogInput: Warning: Action GrabLeft uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.19-10.35.39:879][  0]LogInput: Warning: Action GrabRight uses invalid key OculusGo_Right_Trigger_Click.
+[2021.05.19-10.35.39:879][  0]LogInput: Warning: Action TeleportLeft uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.05.19-10.35.39:879][  0]LogInput: Warning: Action OpenMenuTakeShot uses invalid key OculusGo_Right_Back_Click.
+[2021.05.19-10.35.39:879][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.19-10.35.39:879][  0]LogLoad: (Engine Initialization) Total time: 5.85 seconds
+[2021.05.19-10.35.39:879][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.19-10.35.39:879][  0]LogInit: First time updating LLM stats...
+[2021.05.19-10.35.39:889][  0]LogOcInput: OculusInput is initialized
+[2021.05.19-10.35.39:892][  0]LoadErrors: Error: /Game/ArchVisVR/Blueprints/Option/TabletTeleporterOption_BP  : Failed import for ObjectProperty /Game/ArchVisVR/Blueprints/Option/OptionType/ArchVisVR_TeleporterOption.ArchVisVR_TeleporterOption:Picture_2_4096544949A3076D8CBC0FACC53E31E3 Referenced by export Function /Game/ArchVisVR/Blueprints/Option/TabletTeleporterOption_BP.TabletTeleporterOption_BP_C:InitializeOption
+[2021.05.19-10.35.39:913][  0]LogAssetRegistry: Asset discovery search completed in 3.7229 seconds
+[2021.05.19-10.35.39:914][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.05.19-10.35.39:946][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.05.19-10.35.40:014][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.19-10.35.40:052][  2]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.19-10.35.42:611][ 32]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-10.35.42:616][ 32]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-10.35.54:857][771]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.05.19-10.35.54:864][771]LogContentBrowser: Creating deferred item: NewFolder
+[2021.05.19-10.35.59:127][ 11]LogContentBrowser: Attempting asset rename: NewFolder -> Engines
+[2021.05.19-10.35.59:127][ 11]LogContentBrowser: End creating deferred item NewFolder
+[2021.05.19-10.36.13:059][814]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.19-10.36.13:268][814]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User\Downloads\Engine.fbx)
+[2021.05.19-10.36.13:489][814]LogFbx: Loading FBX Scene from C:\Users\User\Downloads\Engine.fbx
+[2021.05.19-10.36.14:148][814]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.19-10.36.17:884][814]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.05.19-10.36.23:212][814]LogStaticMesh: Building static mesh Engine...
+[2021.05.19-10.36.35:599][814]LogStaticMesh: Built static mesh [12.39s] /Game/res/Engines/Engine.Engine
+[2021.05.19-10.36.43:254][814]LogStaticMesh: Warning: Engine has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.36.43:254][814]LogStaticMesh: Warning: Engine has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.36.50:646][814]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.19-10.36.50:646][814]FBXImport: Warning: Engine has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.36.50:646][814]FBXImport: Warning: Engine has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.36.58:470][814]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User\Downloads\Engine3.fbx)
+[2021.05.19-10.36.58:509][814]LogFbx: Loading FBX Scene from C:\Users\User\Downloads\Engine3.fbx
+[2021.05.19-10.36.58:538][814]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.19-10.36.58:562][814]LogMaterial: Display: Missing cached shader map for material Engine_Block_body, compiling. 
+[2021.05.19-10.36.58:732][814]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.05.19-10.36.58:732][814]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.05.19-10.36.58:741][814]LogFbx: Display: Triangulating static mesh 13474_V6_Engine_Block_v1_l2
+[2021.05.19-10.37.00:562][814]LogStaticMesh: Building static mesh Engine3...
+[2021.05.19-10.37.01:495][814]LogStaticMesh: Built static mesh [0.93s] /Game/res/Engines/Engine3.Engine3
+[2021.05.19-10.37.01:793][814]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.19-10.37.02:011][814]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User\Downloads\Engine2.fbx)
+[2021.05.19-10.37.02:026][814]LogFbx: Loading FBX Scene from C:\Users\User\Downloads\Engine2.fbx
+[2021.05.19-10.37.02:047][814]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.19-10.37.02:178][814]LogStaticMesh: Building static mesh Engine2...
+[2021.05.19-10.37.04:523][814]LogStaticMesh: Built static mesh [2.34s] /Game/res/Engines/Engine2.Engine2
+[2021.05.19-10.37.04:624][814]LogStaticMesh: Warning: Engine2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.37.04:624][814]LogStaticMesh: Warning: Engine2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.37.04:741][814]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.19-10.37.04:741][814]FBXImport: Warning: Engine2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.37.04:741][814]FBXImport: Warning: Engine2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.37.09:746][870]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-10.37.09:751][870]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-10.37.15:043][ 88]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/res/Engines/Engine.Engine
+[2021.05.19-10.37.16:139][ 88]LogRenderer: Reallocating scene render targets to support 1208x648 Format 10 NumSamples 1 (Frame:1).
+[2021.05.19-10.37.16:139][ 88]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.19-10.37.25:510][142]LogSlate: Window 'Engine' being destroyed
+[2021.05.19-10.37.25:637][142]LogSlate: Window 'Engine' being destroyed
+[2021.05.19-10.37.25:640][142]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-10.37.25:640][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-10.37.27:889][188]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/res/Engines/Engine2.Engine2
+[2021.05.19-10.37.58:152][721]LogSlate: Window 'Engine2' being destroyed
+[2021.05.19-10.37.58:170][721]LogSlate: Window 'Engine2' being destroyed
+[2021.05.19-10.37.58:171][721]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-10.37.58:172][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-10.38.13:337][175]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/res/Engines/Engine.Engine
+[2021.05.19-10.38.49:380][608]LogSlate: Window 'Engine' being destroyed
+[2021.05.19-10.38.49:385][608]LogSlate: Window 'Engine' being destroyed
+[2021.05.19-10.38.49:386][608]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-10.38.49:386][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-10.38.50:436][717]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/res/Engines/Engine3.Engine3
+[2021.05.19-10.38.55:103][228]LogSlate: Window 'Engine3' being destroyed
+[2021.05.19-10.38.55:107][228]LogSlate: Window 'Engine3' being destroyed
+[2021.05.19-10.38.55:108][228]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-10.38.55:109][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-10.38.59:990][794]LogActorFactory: Actor Factory created Engine
+[2021.05.19-10.39.00:667][860]LogActorFactory: Actor Factory created Engine
+[2021.05.19-10.39.16:266][641]Cmd: TRANSACTION UNDO
+[2021.05.19-10.39.16:266][641]LogEditorTransaction: Undo Move Actors
+[2021.05.19-10.39.16:805][651]Cmd: TRANSACTION UNDO
+[2021.05.19-10.39.16:805][651]LogEditorTransaction: Undo Create Actors
+[2021.05.19-10.39.22:155][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVisVR/Maps/Overview" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.19-10.39.22:164][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.05.19-10.39.22:236][219]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/OverviewBE739C0E43B1B1C221420381A6082436.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview.umap'
+[2021.05.19-10.39.22:249][219]AssetCheck: New page: Asset Save: Overview
+[2021.05.19-10.39.22:249][219]LogContentValidation: Display: Validating World /Game/ArchVisVR/Maps/Overview.Overview
+[2021.05.19-10.39.57:736][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVisVR/Maps/Overview" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.19-10.39.57:742][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.05.19-10.39.57:810][966]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Overview78692DEF42432987EF2D54B233F423AD.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview.umap'
+[2021.05.19-10.39.57:821][966]AssetCheck: New page: Asset Save: Overview
+[2021.05.19-10.39.57:821][966]LogContentValidation: Display: Validating World /Game/ArchVisVR/Maps/Overview.Overview
+[2021.05.19-10.41.54:771][965]LogDialogs: Warning: Suppressed: VR Mode enables you to work on your project in virtual reality using motion controllers. This feature is still under development, so you may experience bugs or crashes while using it.
+[2021.05.19-10.41.55:014][965]LogRenderer: Warning: Resizing VR buffer to 3296 by 1776
+[2021.05.19-10.41.55:014][965]LogRenderer: Reallocating scene render targets to support 3296x1776 Format 10 NumSamples 1 (Frame:13313).
+[2021.05.19-10.41.55:014][965]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2021.05.19-10.41.55:024][965]LogSlate: Window 'Sequencer' being destroyed
+[2021.05.19-10.41.55:088][965]LogEngine: Changing dynamic resolution state.
+[2021.05.19-10.43.23:535][844]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush44)
+[2021.05.19-10.43.28:733][178]LogEngine: Changing dynamic resolution state.
+[2021.05.19-10.43.55:766][415]Cmd: SELECT NONE
+[2021.05.19-10.48.40:351][847]LogAssetTools: Warning: Failed to import 'C:\Users\User\Desktop\Kamaz 5320/Kamaz 5320.spp'. Unknown extension 'spp'.
+[2021.05.19-10.48.40:353][847]LogAssetTools: Warning: Failed to import 'C:\Users\User\Desktop\Kamaz 5320/Kamaz5320.blend'. Unknown extension 'blend'.
+[2021.05.19-10.48.40:530][847]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User\Desktop\Kamaz 5320/Kamaz5320.fbx)
+[2021.05.19-10.48.40:756][847]LogFbx: Loading FBX Scene from C:\Users\User\Desktop\Kamaz 5320/Kamaz5320.fbx
+[2021.05.19-10.48.40:977][847]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.19-10.48.45:245][847]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.05.19-10.48.45:267][847]LogMaterial: Display: Missing cached shader map for material Материал_001, compiling. 
+[2021.05.19-10.48.45:277][847]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.05.19-10.48.45:277][847]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.05.19-10.48.45:289][847]LogStaticMesh: Building static mesh Kamaz5320_balon01...
+[2021.05.19-10.48.45:309][847]LogStaticMesh: Built static mesh [0.02s] /Game/res/Kamaz_5320/Kamaz5320_balon01.Kamaz5320_balon01
+[2021.05.19-10.48.45:311][847]LogStaticMesh: Warning: Kamaz5320_balon01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.48.45:318][847]LogMaterial: Display: Missing cached shader map for material Shina, compiling. 
+[2021.05.19-10.48.45:342][847]LogMaterial: Display: Missing cached shader map for material Pokrishka, compiling. 
+[2021.05.19-10.48.45:364][847]LogMaterial: Display: Missing cached shader map for material Материал_011, compiling. 
+[2021.05.19-10.48.45:504][847]LogStaticMesh: Building static mesh Kamaz5320_Untitled_36_02_pivot...
+[2021.05.19-10.48.45:826][847]LogStaticMesh: Built static mesh [0.32s] /Game/res/Kamaz_5320/Kamaz5320_Untitled_36_02_pivot.Kamaz5320_Untitled_36_02_pivot
+[2021.05.19-10.48.45:888][847]LogStaticMesh: Warning: Kamaz5320_Untitled_36_02_pivot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.48.45:888][847]LogStaticMesh: Warning: Kamaz5320_Untitled_36_02_pivot has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.48.45:998][847]LogMaterial: Display: Missing cached shader map for material Материал_003, compiling. 
+[2021.05.19-10.48.46:022][847]LogMaterial: Display: Missing cached shader map for material PDX02___Default011, compiling. 
+[2021.05.19-10.48.46:048][847]LogMaterial: Display: Missing cached shader map for material Chrome, compiling. 
+[2021.05.19-10.48.46:276][847]LogStaticMesh: Building static mesh Kamaz5320_fara_z01...
+[2021.05.19-10.48.50:977][847]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 72
+[2021.05.19-10.48.50:977][847]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 62
+[2021.05.19-10.48.50:977][847]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 52
+[2021.05.19-10.48.51:191][847]LogStaticMesh: Built static mesh [4.92s] /Game/res/Kamaz_5320/Kamaz5320_fara_z01.Kamaz5320_fara_z01
+[2021.05.19-10.48.51:412][847]LogStaticMesh: Warning: Kamaz5320_fara_z01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.48.51:412][847]LogStaticMesh: Warning: Kamaz5320_fara_z01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.48.51:412][847]LogStaticMesh: Warning: Kamaz5320_fara_z01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.48.51:626][847]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2021.05.19-10.48.51:760][847]LogStaticMesh: Building static mesh Kamaz5320_Untitled_39_02_pivot...
+[2021.05.19-10.48.52:642][847]LogStaticMesh: Built static mesh [0.88s] /Game/res/Kamaz_5320/Kamaz5320_Untitled_39_02_pivot.Kamaz5320_Untitled_39_02_pivot
+[2021.05.19-10.48.52:773][847]LogStaticMesh: Warning: Kamaz5320_Untitled_39_02_pivot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.48.52:773][847]LogStaticMesh: Warning: Kamaz5320_Untitled_39_02_pivot has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.48.52:915][847]LogMaterial: Display: Missing cached shader map for material Bak, compiling. 
+[2021.05.19-10.48.52:940][847]LogStaticMesh: Building static mesh Kamaz5320_bak01...
+[2021.05.19-10.48.52:971][847]LogStaticMesh: Built static mesh [0.03s] /Game/res/Kamaz_5320/Kamaz5320_bak01.Kamaz5320_bak01
+[2021.05.19-10.48.52:976][847]LogStaticMesh: Warning: Kamaz5320_bak01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.48.52:977][847]LogStaticMesh: Warning: Kamaz5320_bak01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.48.52:988][847]LogMaterial: Display: Missing cached shader map for material Материал_008, compiling. 
+[2021.05.19-10.48.53:026][847]LogStaticMesh: Building static mesh Kamaz5320_object011...
+[2021.05.19-10.48.53:146][847]LogStaticMesh: Built static mesh [0.12s] /Game/res/Kamaz_5320/Kamaz5320_object011.Kamaz5320_object011
+[2021.05.19-10.48.53:171][847]LogStaticMesh: Warning: Kamaz5320_object011 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.48.53:171][847]LogStaticMesh: Warning: Kamaz5320_object011 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.48.53:201][847]LogMaterial: Display: Missing cached shader map for material Provod, compiling. 
+[2021.05.19-10.48.53:234][847]LogStaticMesh: Building static mesh Kamaz5320_kabel01...
+[2021.05.19-10.48.53:339][847]LogStaticMesh: Built static mesh [0.11s] /Game/res/Kamaz_5320/Kamaz5320_kabel01.Kamaz5320_kabel01
+[2021.05.19-10.48.53:380][847]LogMaterial: Display: Missing cached shader map for material Материал_004, compiling. 
+[2021.05.19-10.48.53:402][847]LogStaticMesh: Building static mesh Kamaz5320_Object01...
+[2021.05.19-10.48.53:413][847]LogStaticMesh: Built static mesh [0.01s] /Game/res/Kamaz_5320/Kamaz5320_Object01.Kamaz5320_Object01
+[2021.05.19-10.48.53:416][847]LogStaticMesh: Warning: Kamaz5320_Object01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.48.53:416][847]LogStaticMesh: Warning: Kamaz5320_Object01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.48.53:423][847]LogMaterial: Display: Missing cached shader map for material Windows, compiling. 
+[2021.05.19-10.48.53:446][847]LogStaticMesh: Building static mesh Kamaz5320_window01...
+[2021.05.19-10.48.53:450][847]LogStaticMesh: Built static mesh [0.00s] /Game/res/Kamaz_5320/Kamaz5320_window01.Kamaz5320_window01
+[2021.05.19-10.48.53:568][847]LogStaticMesh: Building static mesh Kamaz5320_Untitled_36_01_pivot...
+[2021.05.19-10.48.53:903][847]LogStaticMesh: Built static mesh [0.33s] /Game/res/Kamaz_5320/Kamaz5320_Untitled_36_01_pivot.Kamaz5320_Untitled_36_01_pivot
+[2021.05.19-10.48.53:967][847]LogStaticMesh: Warning: Kamaz5320_Untitled_36_01_pivot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.48.53:967][847]LogStaticMesh: Warning: Kamaz5320_Untitled_36_01_pivot has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.48.54:035][847]LogMaterial: Display: Missing cached shader map for material Podveska, compiling. 
+[2021.05.19-10.48.54:062][847]LogStaticMesh: Building static mesh Kamaz5320_axle_r01...
+[2021.05.19-10.48.54:186][847]LogStaticMesh: Built static mesh [0.13s] /Game/res/Kamaz_5320/Kamaz5320_axle_r01.Kamaz5320_axle_r01
+[2021.05.19-10.48.54:219][847]LogMaterial: Display: Missing cached shader map for material Материал_012, compiling. 
+[2021.05.19-10.48.54:244][847]LogStaticMesh: Building static mesh Kamaz5320_tahook01...
+[2021.05.19-10.48.54:247][847]LogStaticMesh: Built static mesh [0.00s] /Game/res/Kamaz_5320/Kamaz5320_tahook01.Kamaz5320_tahook01
+[2021.05.19-10.48.54:247][847]LogStaticMesh: Warning: Kamaz5320_tahook01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.48.54:252][847]LogMaterial: Display: Missing cached shader map for material Материал_007, compiling. 
+[2021.05.19-10.48.54:278][847]LogStaticMesh: Building static mesh Kamaz5320_Object04...
+[2021.05.19-10.48.54:281][847]LogStaticMesh: Built static mesh [0.00s] /Game/res/Kamaz_5320/Kamaz5320_Object04.Kamaz5320_Object04
+[2021.05.19-10.48.54:289][847]LogMaterial: Display: Missing cached shader map for material Salon, compiling. 
+[2021.05.19-10.48.54:447][847]LogStaticMesh: Building static mesh Kamaz5320_cabin_black01...
+[2021.05.19-10.48.54:742][847]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 140
+[2021.05.19-10.48.56:319][847]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 130
+[2021.05.19-10.48.56:596][847]LogStaticMesh: Built static mesh [2.15s] /Game/res/Kamaz_5320/Kamaz5320_cabin_black01.Kamaz5320_cabin_black01
+[2021.05.19-10.48.56:731][847]LogStaticMesh: Warning: Kamaz5320_cabin_black01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.48.56:731][847]LogStaticMesh: Warning: Kamaz5320_cabin_black01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.48.56:866][847]LogMaterial: Display: Missing cached shader map for material Материал_006, compiling. 
+[2021.05.19-10.48.56:890][847]LogStaticMesh: Building static mesh Kamaz5320_Object03...
+[2021.05.19-10.48.56:892][847]LogStaticMesh: Built static mesh [0.00s] /Game/res/Kamaz_5320/Kamaz5320_Object03.Kamaz5320_Object03
+[2021.05.19-10.48.56:913][847]LogStaticMesh: Building static mesh Kamaz5320_axle_fr01...
+[2021.05.19-10.48.56:987][847]LogStaticMesh: Built static mesh [0.07s] /Game/res/Kamaz_5320/Kamaz5320_axle_fr01.Kamaz5320_axle_fr01
+[2021.05.19-10.48.57:003][847]LogStaticMesh: Warning: Kamaz5320_axle_fr01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.48.57:003][847]LogStaticMesh: Warning: Kamaz5320_axle_fr01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.48.57:003][847]LogStaticMesh: Warning: Kamaz5320_axle_fr01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.48.57:022][847]LogMaterial: Display: Missing cached shader map for material Материал_005, compiling. 
+[2021.05.19-10.48.57:048][847]LogStaticMesh: Building static mesh Kamaz5320_Object02...
+[2021.05.19-10.48.57:050][847]LogStaticMesh: Built static mesh [0.00s] /Game/res/Kamaz_5320/Kamaz5320_Object02.Kamaz5320_Object02
+[2021.05.19-10.48.57:188][847]LogStaticMesh: Building static mesh Kamaz5320_Untitled_39_01_pivot...
+[2021.05.19-10.48.57:960][847]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 144
+[2021.05.19-10.48.58:080][847]LogStaticMesh: Built static mesh [0.89s] /Game/res/Kamaz_5320/Kamaz5320_Untitled_39_01_pivot.Kamaz5320_Untitled_39_01_pivot
+[2021.05.19-10.48.58:222][847]LogStaticMesh: Warning: Kamaz5320_Untitled_39_01_pivot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.48.58:222][847]LogStaticMesh: Warning: Kamaz5320_Untitled_39_01_pivot has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.48.58:651][847]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 134
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_balon01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_Untitled_36_02_pivot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_Untitled_36_02_pivot has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_fara_z01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_fara_z01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_fara_z01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_Untitled_39_02_pivot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_Untitled_39_02_pivot has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_bak01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_bak01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_object011 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_object011 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_Object01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_Object01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_Untitled_36_01_pivot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_Untitled_36_01_pivot has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_tahook01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_cabin_black01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_cabin_black01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_axle_fr01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_axle_fr01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.48.59:249][847]FBXImport: Warning: Kamaz5320_axle_fr01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.48.59:250][847]FBXImport: Warning: Kamaz5320_Untitled_39_01_pivot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.48.59:250][847]FBXImport: Warning: Kamaz5320_Untitled_39_01_pivot has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.48.59:402][847]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User\Desktop\Kamaz 5320/Kamaz5320krash.fbx)
+[2021.05.19-10.48.59:458][847]LogFbx: Loading FBX Scene from C:\Users\User\Desktop\Kamaz 5320/Kamaz5320krash.fbx
+[2021.05.19-10.48.59:754][847]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.19-10.48.59:760][847]LogStaticMesh: Building static mesh Kamaz5320krash_balon01...
+[2021.05.19-10.48.59:781][847]LogStaticMesh: Built static mesh [0.02s] /Game/res/Kamaz_5320/Kamaz5320krash_balon01.Kamaz5320krash_balon01
+[2021.05.19-10.48.59:784][847]LogStaticMesh: Warning: Kamaz5320krash_balon01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.48.59:810][847]LogStaticMesh: Building static mesh Kamaz5320krash_Untitled_36_02_pivot...
+[2021.05.19-10.48.59:878][847]LogStaticMesh: Built static mesh [0.07s] /Game/res/Kamaz_5320/Kamaz5320krash_Untitled_36_02_pivot.Kamaz5320krash_Untitled_36_02_pivot
+[2021.05.19-10.48.59:966][847]LogStaticMesh: Building static mesh Kamaz5320krash_Untitled_36_02_pivot1...
+[2021.05.19-10.49.00:203][847]LogStaticMesh: Built static mesh [0.24s] /Game/res/Kamaz_5320/Kamaz5320krash_Untitled_36_02_pivot1.Kamaz5320krash_Untitled_36_02_pivot1
+[2021.05.19-10.49.00:245][847]LogStaticMesh: Warning: Kamaz5320krash_Untitled_36_02_pivot1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.49.00:245][847]LogStaticMesh: Warning: Kamaz5320krash_Untitled_36_02_pivot1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.49.00:290][847]LogStaticMesh: Building static mesh Kamaz5320krash_Untitled_36_02_pivot2...
+[2021.05.19-10.49.00:291][847]LogStaticMesh: Built static mesh [0.00s] /Game/res/Kamaz_5320/Kamaz5320krash_Untitled_36_02_pivot2.Kamaz5320krash_Untitled_36_02_pivot2
+[2021.05.19-10.49.00:297][847]LogStaticMesh: Building static mesh Kamaz5320krash_fara_z01...
+[2021.05.19-10.49.00:310][847]LogStaticMesh: Built static mesh [0.01s] /Game/res/Kamaz_5320/Kamaz5320krash_fara_z01.Kamaz5320krash_fara_z01
+[2021.05.19-10.49.00:520][847]LogStaticMesh: Building static mesh Kamaz5320krash_fara_z013...
+[2021.05.19-10.49.05:184][847]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 124
+[2021.05.19-10.49.05:184][847]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 114
+[2021.05.19-10.49.05:371][847]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 104
+[2021.05.19-10.49.05:371][847]LogStaticMesh: Built static mesh [4.85s] /Game/res/Kamaz_5320/Kamaz5320krash_fara_z013.Kamaz5320krash_fara_z013
+[2021.05.19-10.49.05:577][847]LogStaticMesh: Warning: Kamaz5320krash_fara_z013 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.49.05:577][847]LogStaticMesh: Warning: Kamaz5320krash_fara_z013 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.49.05:577][847]LogStaticMesh: Warning: Kamaz5320krash_fara_z013 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.49.05:774][847]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 94
+[2021.05.19-10.49.05:783][847]LogStaticMesh: Building static mesh Kamaz5320krash_fara_z014...
+[2021.05.19-10.49.05:817][847]LogStaticMesh: Built static mesh [0.03s] /Game/res/Kamaz_5320/Kamaz5320krash_fara_z014.Kamaz5320krash_fara_z014
+[2021.05.19-10.49.05:894][847]LogStaticMesh: Building static mesh Kamaz5320krash_Untitled_39_02_pivot...
+[2021.05.19-10.49.06:502][847]LogStaticMesh: Built static mesh [0.61s] /Game/res/Kamaz_5320/Kamaz5320krash_Untitled_39_02_pivot.Kamaz5320krash_Untitled_39_02_pivot
+[2021.05.19-10.49.06:553][847]LogStaticMesh: Warning: Kamaz5320krash_Untitled_39_02_pivot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.49.06:553][847]LogStaticMesh: Warning: Kamaz5320krash_Untitled_39_02_pivot has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.49.06:688][847]LogStaticMesh: Building static mesh Kamaz5320krash_Untitled_39_02_pivot5...
+[2021.05.19-10.49.07:014][847]LogStaticMesh: Built static mesh [0.33s] /Game/res/Kamaz_5320/Kamaz5320krash_Untitled_39_02_pivot5.Kamaz5320krash_Untitled_39_02_pivot5
+[2021.05.19-10.49.07:080][847]LogStaticMesh: Warning: Kamaz5320krash_Untitled_39_02_pivot5 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.49.07:080][847]LogStaticMesh: Warning: Kamaz5320krash_Untitled_39_02_pivot5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.49.07:153][847]LogStaticMesh: Building static mesh Kamaz5320krash_bak01...
+[2021.05.19-10.49.07:162][847]LogStaticMesh: Built static mesh [0.01s] /Game/res/Kamaz_5320/Kamaz5320krash_bak01.Kamaz5320krash_bak01
+[2021.05.19-10.49.07:172][847]LogStaticMesh: Building static mesh Kamaz5320krash_bak016...
+[2021.05.19-10.49.07:200][847]LogStaticMesh: Built static mesh [0.03s] /Game/res/Kamaz_5320/Kamaz5320krash_bak016.Kamaz5320krash_bak016
+[2021.05.19-10.49.07:202][847]LogStaticMesh: Warning: Kamaz5320krash_bak016 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.49.07:202][847]LogStaticMesh: Warning: Kamaz5320krash_bak016 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.49.07:238][847]LogStaticMesh: Building static mesh Kamaz5320krash_object011...
+[2021.05.19-10.49.07:361][847]LogStaticMesh: Built static mesh [0.12s] /Game/res/Kamaz_5320/Kamaz5320krash_object011.Kamaz5320krash_object011
+[2021.05.19-10.49.07:383][847]LogStaticMesh: Warning: Kamaz5320krash_object011 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.49.07:383][847]LogStaticMesh: Warning: Kamaz5320krash_object011 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.49.07:435][847]LogStaticMesh: Building static mesh Kamaz5320krash_kabel01...
+[2021.05.19-10.49.07:541][847]LogStaticMesh: Built static mesh [0.11s] /Game/res/Kamaz_5320/Kamaz5320krash_kabel01.Kamaz5320krash_kabel01
+[2021.05.19-10.49.07:585][847]LogStaticMesh: Building static mesh Kamaz5320krash_Object01...
+[2021.05.19-10.49.07:595][847]LogStaticMesh: Built static mesh [0.01s] /Game/res/Kamaz_5320/Kamaz5320krash_Object01.Kamaz5320krash_Object01
+[2021.05.19-10.49.07:598][847]LogStaticMesh: Warning: Kamaz5320krash_Object01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.49.07:598][847]LogStaticMesh: Warning: Kamaz5320krash_Object01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.49.07:607][847]LogStaticMesh: Building static mesh Kamaz5320krash_window01...
+[2021.05.19-10.49.07:610][847]LogStaticMesh: Built static mesh [0.00s] /Game/res/Kamaz_5320/Kamaz5320krash_window01.Kamaz5320krash_window01
+[2021.05.19-10.49.07:636][847]LogStaticMesh: Building static mesh Kamaz5320krash_Untitled_36_01_pivot...
+[2021.05.19-10.49.07:708][847]LogStaticMesh: Built static mesh [0.07s] /Game/res/Kamaz_5320/Kamaz5320krash_Untitled_36_01_pivot.Kamaz5320krash_Untitled_36_01_pivot
+[2021.05.19-10.49.07:797][847]LogStaticMesh: Building static mesh Kamaz5320krash_Untitled_36_01_pivot7...
+[2021.05.19-10.49.08:026][847]LogStaticMesh: Built static mesh [0.23s] /Game/res/Kamaz_5320/Kamaz5320krash_Untitled_36_01_pivot7.Kamaz5320krash_Untitled_36_01_pivot7
+[2021.05.19-10.49.08:068][847]LogStaticMesh: Warning: Kamaz5320krash_Untitled_36_01_pivot7 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.49.08:068][847]LogStaticMesh: Warning: Kamaz5320krash_Untitled_36_01_pivot7 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.49.08:132][847]LogStaticMesh: Building static mesh Kamaz5320krash_axle_r01...
+[2021.05.19-10.49.08:256][847]LogStaticMesh: Built static mesh [0.12s] /Game/res/Kamaz_5320/Kamaz5320krash_axle_r01.Kamaz5320krash_axle_r01
+[2021.05.19-10.49.08:287][847]LogStaticMesh: Building static mesh Kamaz5320krash_tahook01...
+[2021.05.19-10.49.08:290][847]LogStaticMesh: Built static mesh [0.00s] /Game/res/Kamaz_5320/Kamaz5320krash_tahook01.Kamaz5320krash_tahook01
+[2021.05.19-10.49.08:291][847]LogStaticMesh: Warning: Kamaz5320krash_tahook01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.49.08:296][847]LogStaticMesh: Building static mesh Kamaz5320krash_Object04...
+[2021.05.19-10.49.08:298][847]LogStaticMesh: Built static mesh [0.00s] /Game/res/Kamaz_5320/Kamaz5320krash_Object04.Kamaz5320krash_Object04
+[2021.05.19-10.49.08:431][847]LogStaticMesh: Building static mesh Kamaz5320krash_cabin_black01...
+[2021.05.19-10.49.10:298][847]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 84
+[2021.05.19-10.49.10:298][847]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 74
+[2021.05.19-10.49.10:566][847]LogStaticMesh: Built static mesh [2.14s] /Game/res/Kamaz_5320/Kamaz5320krash_cabin_black01.Kamaz5320krash_cabin_black01
+[2021.05.19-10.49.10:701][847]LogStaticMesh: Warning: Kamaz5320krash_cabin_black01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.49.10:701][847]LogStaticMesh: Warning: Kamaz5320krash_cabin_black01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.49.10:833][847]LogStaticMesh: Building static mesh Kamaz5320krash_Object03...
+[2021.05.19-10.49.10:835][847]LogStaticMesh: Built static mesh [0.00s] /Game/res/Kamaz_5320/Kamaz5320krash_Object03.Kamaz5320krash_Object03
+[2021.05.19-10.49.10:858][847]LogStaticMesh: Building static mesh Kamaz5320krash_axle_fr01...
+[2021.05.19-10.49.10:932][847]LogStaticMesh: Built static mesh [0.08s] /Game/res/Kamaz_5320/Kamaz5320krash_axle_fr01.Kamaz5320krash_axle_fr01
+[2021.05.19-10.49.10:946][847]LogStaticMesh: Warning: Kamaz5320krash_axle_fr01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.49.10:947][847]LogStaticMesh: Warning: Kamaz5320krash_axle_fr01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.49.10:947][847]LogStaticMesh: Warning: Kamaz5320krash_axle_fr01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.49.10:964][847]LogStaticMesh: Building static mesh Kamaz5320krash_Object02...
+[2021.05.19-10.49.10:966][847]LogStaticMesh: Built static mesh [0.00s] /Game/res/Kamaz_5320/Kamaz5320krash_Object02.Kamaz5320krash_Object02
+[2021.05.19-10.49.11:033][847]LogStaticMesh: Building static mesh Kamaz5320krash_Untitled_39_01_pivot...
+[2021.05.19-10.49.11:650][847]LogStaticMesh: Built static mesh [0.62s] /Game/res/Kamaz_5320/Kamaz5320krash_Untitled_39_01_pivot.Kamaz5320krash_Untitled_39_01_pivot
+[2021.05.19-10.49.11:704][847]LogStaticMesh: Warning: Kamaz5320krash_Untitled_39_01_pivot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.49.11:704][847]LogStaticMesh: Warning: Kamaz5320krash_Untitled_39_01_pivot has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.49.11:836][847]LogStaticMesh: Building static mesh Kamaz5320krash_Untitled_39_01_pivot8...
+[2021.05.19-10.49.12:153][847]LogStaticMesh: Built static mesh [0.32s] /Game/res/Kamaz_5320/Kamaz5320krash_Untitled_39_01_pivot8.Kamaz5320krash_Untitled_39_01_pivot8
+[2021.05.19-10.49.12:217][847]LogStaticMesh: Warning: Kamaz5320krash_Untitled_39_01_pivot8 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.19-10.49.12:217][847]LogStaticMesh: Warning: Kamaz5320krash_Untitled_39_01_pivot8 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.19-10.49.12:565][847]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 64
+[2021.05.19-10.49.12:626][847]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2021.05.19-10.49.13:122][847]FBXImport: FBX File Loading: Found name clash, node 'Untitled_36_02_pivot' was renamed to 'Untitled_36_02_pivot1' 
+[2021.05.19-10.49.13:122][847]FBXImport: FBX File Loading: Found name clash, node 'Untitled_36_02_pivot' was renamed to 'Untitled_36_02_pivot2' 
+[2021.05.19-10.49.13:122][847]FBXImport: FBX File Loading: Found name clash, node 'fara_z01' was renamed to 'fara_z013' 
+[2021.05.19-10.49.13:122][847]FBXImport: FBX File Loading: Found name clash, node 'fara_z01' was renamed to 'fara_z014' 
+[2021.05.19-10.49.13:122][847]FBXImport: FBX File Loading: Found name clash, node 'Untitled_39_02_pivot' was renamed to 'Untitled_39_02_pivot5' 
+[2021.05.19-10.49.13:122][847]FBXImport: FBX File Loading: Found name clash, node 'bak01' was renamed to 'bak016' 
+[2021.05.19-10.49.13:122][847]FBXImport: FBX File Loading: Found name clash, node 'Untitled_36_01_pivot' was renamed to 'Untitled_36_01_pivot7' 
+[2021.05.19-10.49.13:122][847]FBXImport: FBX File Loading: Found name clash, node 'Untitled_39_01_pivot' was renamed to 'Untitled_39_01_pivot8' 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_balon01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_Untitled_36_02_pivot1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_Untitled_36_02_pivot1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_fara_z013 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_fara_z013 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_fara_z013 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_Untitled_39_02_pivot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_Untitled_39_02_pivot has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_Untitled_39_02_pivot5 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_Untitled_39_02_pivot5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_bak016 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_bak016 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_object011 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_object011 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_Object01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_Object01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_Untitled_36_01_pivot7 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.49.13:122][847]FBXImport: Warning: Kamaz5320krash_Untitled_36_01_pivot7 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:123][847]FBXImport: Warning: Kamaz5320krash_tahook01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:123][847]FBXImport: Warning: Kamaz5320krash_cabin_black01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.49.13:123][847]FBXImport: Warning: Kamaz5320krash_cabin_black01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:123][847]FBXImport: Warning: Kamaz5320krash_axle_fr01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.49.13:123][847]FBXImport: Warning: Kamaz5320krash_axle_fr01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:123][847]FBXImport: Warning: Kamaz5320krash_axle_fr01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:123][847]FBXImport: Warning: Kamaz5320krash_Untitled_39_01_pivot has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.49.13:123][847]FBXImport: Warning: Kamaz5320krash_Untitled_39_01_pivot has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:123][847]FBXImport: Warning: Kamaz5320krash_Untitled_39_01_pivot8 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.19-10.49.13:123][847]FBXImport: Warning: Kamaz5320krash_Untitled_39_01_pivot8 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.19-10.49.13:192][847]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.13:195][847]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User\Desktop\Kamaz 5320/kamaz_5320/Chrome/Chrome_Base_Color.png)
+[2021.05.19-10.49.13:244][847]LogTexture: Display: Building textures: Chrome_Base_Color (AutoDXT, 1024X1024)
+[2021.05.19-10.49.13:408][847]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.13:409][847]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User\Desktop\Kamaz 5320/kamaz_5320/Chrome/Chrome_Metallic.png)
+[2021.05.19-10.49.13:413][847]LogTexture: Display: Building textures: Chrome_Metallic (AutoDXT, 1024X1024)
+[2021.05.19-10.49.13:525][847]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.13:527][847]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User\Desktop\Kamaz 5320/kamaz_5320/Chrome/Chrome_Normal.png)
+[2021.05.19-10.49.13:545][847]LogTexture: Display: Building textures: Chrome_Normal (BC5, 1024X1024)
+[2021.05.19-10.49.13:737][847]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.13:739][847]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User\Desktop\Kamaz 5320/kamaz_5320/default03/default03_Base_Color.png)
+[2021.05.19-10.49.13:755][847]LogTexture: Display: Building textures: default03_Base_Color (AutoDXT, 1024X1024)
+[2021.05.19-10.49.13:923][847]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.13:925][847]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User\Desktop\Kamaz 5320/kamaz_5320/default03/default03_Metallic.png)
+[2021.05.19-10.49.13:929][847]LogTexture: Display: Building textures: default03_Metallic (AutoDXT, 1024X1024)
+[2021.05.19-10.49.14:072][847]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.14:074][847]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User\Desktop\Kamaz 5320/kamaz_5320/default03/default03_Normal.png)
+[2021.05.19-10.49.14:092][847]LogTexture: Display: Building textures: default03_Normal (BC5, 1024X1024)
+[2021.05.19-10.49.14:254][847]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.14:256][847]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User\Desktop\Kamaz 5320/kamaz_5320/default030/default030_Metallic.png)
+[2021.05.19-10.49.14:259][847]LogTexture: Display: Building textures: default030_Metallic (AutoDXT, 1024X1024)
+[2021.05.19-10.49.14:373][847]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.14:375][847]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User\Desktop\Kamaz 5320/kamaz_5320/default030/default030_Normal.png)
+[2021.05.19-10.49.14:394][847]LogTexture: Display: Building textures: default030_Normal (BC5, 1024X1024)
+[2021.05.19-10.49.14:640][847]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.14:642][847]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\User\Desktop\Kamaz 5320/kamaz_5320/default030/default03_Base_Color.png)
+[2021.05.19-10.49.14:661][847]LogTexture: Display: Building textures: default03_Base_Color (AutoDXT, 1024X1024)
+[2021.05.19-10.49.14:872][847]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/': No such file or directory
+[2021.05.19-10.49.14:874][847]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 C:\Users\User\Desktop\Kamaz 5320/kamaz_5320/kamaz_5320.json)
+[2021.05.19-10.49.16:215][847]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2021.05.19-10.49.16:438][847]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2021.05.19-10.49.19:698][847]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.05.19-10.49.19:801][847]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.05.19-10.49.22:519][847]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.05.19-10.49.23:412][847]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.05.19-10.49.30:991][847]LogSlate: Window 'DataTable Options' being destroyed
+[2021.05.19-10.49.30:997][847]LogAssetTools: The import task was canceled.
+[2021.05.19-10.49.31:261][848]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.31:262][848]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.31:262][848]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.32:599][955]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.32:599][955]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.32:599][955]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.35:132][259]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-10.49.35:136][259]LogSlate: Window 'Message Log' being destroyed
+[2021.05.19-10.49.38:205][541]LogActorFactory: Actor Factory created Kamaz5320_axle_fr01
+[2021.05.19-10.49.38:206][541]LogActorFactory: Actor Factory created Kamaz5320_axle_r01
+[2021.05.19-10.49.38:206][541]LogActorFactory: Actor Factory created Kamaz5320_bak01
+[2021.05.19-10.49.38:206][541]LogActorFactory: Actor Factory created Kamaz5320_balon01
+[2021.05.19-10.49.38:207][541]LogActorFactory: Actor Factory created Kamaz5320_cabin_black01
+[2021.05.19-10.49.38:207][541]LogActorFactory: Actor Factory created Kamaz5320_fara_z01
+[2021.05.19-10.49.38:207][541]LogActorFactory: Actor Factory created Kamaz5320_kabel01
+[2021.05.19-10.49.38:208][541]LogActorFactory: Actor Factory created Kamaz5320_Object01
+[2021.05.19-10.49.38:208][541]LogActorFactory: Actor Factory created Kamaz5320_object011
+[2021.05.19-10.49.38:208][541]LogActorFactory: Actor Factory created Kamaz5320_Object02
+[2021.05.19-10.49.38:209][541]LogActorFactory: Actor Factory created Kamaz5320_Object03
+[2021.05.19-10.49.38:209][541]LogActorFactory: Actor Factory created Kamaz5320_Object04
+[2021.05.19-10.49.38:209][541]LogActorFactory: Actor Factory created Kamaz5320_tahook01
+[2021.05.19-10.49.38:210][541]LogActorFactory: Actor Factory created Kamaz5320_Untitled_36_01_pivot
+[2021.05.19-10.49.38:210][541]LogActorFactory: Actor Factory created Kamaz5320_Untitled_36_02_pivot
+[2021.05.19-10.49.38:210][541]LogActorFactory: Actor Factory created Kamaz5320_Untitled_39_01_pivot
+[2021.05.19-10.49.38:211][541]LogActorFactory: Actor Factory created Kamaz5320_Untitled_39_02_pivot
+[2021.05.19-10.49.38:211][541]LogActorFactory: Actor Factory created Kamaz5320_window01
+[2021.05.19-10.49.38:211][541]LogActorFactory: Actor Factory created Kamaz5320krash_axle_fr01
+[2021.05.19-10.49.38:212][541]LogActorFactory: Actor Factory created Kamaz5320krash_axle_r01
+[2021.05.19-10.49.38:212][541]LogActorFactory: Actor Factory created Kamaz5320krash_bak01
+[2021.05.19-10.49.38:212][541]LogActorFactory: Actor Factory created Kamaz5320krash_bak016
+[2021.05.19-10.49.38:213][541]LogActorFactory: Actor Factory created Kamaz5320krash_balon01
+[2021.05.19-10.49.38:213][541]LogActorFactory: Actor Factory created Kamaz5320krash_cabin_black01
+[2021.05.19-10.49.38:213][541]LogActorFactory: Actor Factory created Kamaz5320krash_fara_z01
+[2021.05.19-10.49.38:214][541]LogActorFactory: Actor Factory created Kamaz5320krash_fara_z013
+[2021.05.19-10.49.38:214][541]LogActorFactory: Actor Factory created Kamaz5320krash_fara_z014
+[2021.05.19-10.49.38:214][541]LogActorFactory: Actor Factory created Kamaz5320krash_kabel01
+[2021.05.19-10.49.38:215][541]LogActorFactory: Actor Factory created Kamaz5320krash_Object01
+[2021.05.19-10.49.38:215][541]LogActorFactory: Actor Factory created Kamaz5320krash_object011
+[2021.05.19-10.49.38:215][541]LogActorFactory: Actor Factory created Kamaz5320krash_Object02
+[2021.05.19-10.49.38:216][541]LogActorFactory: Actor Factory created Kamaz5320krash_Object03
+[2021.05.19-10.49.38:216][541]LogActorFactory: Actor Factory created Kamaz5320krash_Object04
+[2021.05.19-10.49.38:216][541]LogActorFactory: Actor Factory created Kamaz5320krash_tahook01
+[2021.05.19-10.49.38:217][541]LogActorFactory: Actor Factory created Kamaz5320krash_Untitled_36_01_pivot
+[2021.05.19-10.49.38:217][541]LogActorFactory: Actor Factory created Kamaz5320krash_Untitled_36_01_pivot7
+[2021.05.19-10.49.38:217][541]LogActorFactory: Actor Factory created Kamaz5320krash_Untitled_36_02_pivot
+[2021.05.19-10.49.38:218][541]LogActorFactory: Actor Factory created Kamaz5320krash_Untitled_36_02_pivot1
+[2021.05.19-10.49.38:218][541]LogActorFactory: Actor Factory created Kamaz5320krash_Untitled_36_02_pivot2
+[2021.05.19-10.49.38:219][541]LogActorFactory: Actor Factory created Kamaz5320krash_Untitled_39_01_pivot
+[2021.05.19-10.49.38:219][541]LogActorFactory: Actor Factory created Kamaz5320krash_Untitled_39_01_pivot8
+[2021.05.19-10.49.38:219][541]LogActorFactory: Actor Factory created Kamaz5320krash_Untitled_39_02_pivot
+[2021.05.19-10.49.38:220][541]LogActorFactory: Actor Factory created Kamaz5320krash_Untitled_39_02_pivot5
+[2021.05.19-10.49.38:220][541]LogActorFactory: Actor Factory created Kamaz5320krash_window01
+[2021.05.19-10.49.38:249][541]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.38:249][541]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.38:249][541]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_5320/kamaz_5320/': No such file or directory
+[2021.05.19-10.49.39:952][662]LogMaterial: Display: Missing cached shader map for material Chrome_Base_Color_Mat, compiling. 
+[2021.05.19-10.49.39:974][662]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.05.19-10.49.39:974][662]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.05.19-10.49.40:013][662]LogMaterial: Display: Missing cached shader map for material Chrome_Metallic_Mat, compiling. 
+[2021.05.19-10.49.47:594][662]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.05.19-10.49.47:594][662]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.05.19-10.49.47:594][662]LogWindows: Error: === Critical error: ===
+[2021.05.19-10.49.47:594][662]LogWindows: Error: 
+[2021.05.19-10.49.47:594][662]LogWindows: Error: Fatal error!
+[2021.05.19-10.49.47:594][662]LogWindows: Error: 
+[2021.05.19-10.49.47:594][662]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000007300730061
+[2021.05.19-10.49.47:594][662]LogWindows: Error: 
+[2021.05.19-10.49.47:594][662]LogWindows: Error: [Callstack] 0x00007ffc3fd29d56 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.19-10.49.47:594][662]LogWindows: Error: [Callstack] 0x00007ffc3fd3b98c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.19-10.49.47:594][662]LogWindows: Error: [Callstack] 0x00007ffc3fd3a6a4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.19-10.49.47:594][662]LogWindows: Error: [Callstack] 0x00007ffc36010156 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2021.05.19-10.49.47:594][662]LogWindows: Error: [Callstack] 0x00007ffc36025b50 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2021.05.19-10.49.47:594][662]LogWindows: Error: [Callstack] 0x00007ffc4b43405f UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.19-10.49.47:594][662]LogWindows: Error: [Callstack] 0x00007ffc4b413a21 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.19-10.49.47:594][662]LogWindows: Error: [Callstack] 0x00007ffc4b498170 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.19-10.49.47:594][662]LogWindows: Error: [Callstack] 0x00007ffc4b480337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.19-10.49.47:594][662]LogWindows: Error: [Callstack] 0x00007ffc4b473632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.19-10.49.47:594][662]LogWindows: Error: [Callstack] 0x00007ffc6b4bbcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.19-10.49.47:595][662]LogWindows: Error: [Callstack] 0x00007ffc6b4a9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.19-10.49.47:595][662]LogWindows: Error: [Callstack] 0x00007ffc6b4be389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.19-10.49.47:595][662]LogWindows: Error: [Callstack] 0x00007ffc6b4a4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.19-10.49.47:595][662]LogWindows: Error: [Callstack] 0x00007ffca3f1681d USER32.dll!UnknownFunction []
+[2021.05.19-10.49.47:595][662]LogWindows: Error: [Callstack] 0x00007ffca3f16212 USER32.dll!UnknownFunction []
+[2021.05.19-10.49.47:595][662]LogWindows: Error: [Callstack] 0x00007ffc6b4bf914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.19-10.49.47:595][662]LogWindows: Error: [Callstack] 0x00007ff7c2478848 UE4Editor.exe!UnknownFunction []
+[2021.05.19-10.49.47:595][662]LogWindows: Error: [Callstack] 0x00007ff7c249117c UE4Editor.exe!UnknownFunction []
+[2021.05.19-10.49.47:595][662]LogWindows: Error: [Callstack] 0x00007ff7c249125a UE4Editor.exe!UnknownFunction []
+[2021.05.19-10.49.47:595][662]LogWindows: Error: [Callstack] 0x00007ff7c24a52bd UE4Editor.exe!UnknownFunction []
+[2021.05.19-10.49.47:595][662]LogWindows: Error: [Callstack] 0x00007ff7c24a7fea UE4Editor.exe!UnknownFunction []
+[2021.05.19-10.49.47:595][662]LogWindows: Error: [Callstack] 0x00007ffca4207bd4 KERNEL32.DLL!UnknownFunction []
+[2021.05.19-10.49.47:595][662]LogWindows: Error: [Callstack] 0x00007ffca438ce71 ntdll.dll!UnknownFunction []
+[2021.05.19-10.49.47:595][662]LogWindows: Error: 
+[2021.05.19-10.49.47:661][662]LogExit: Executing StaticShutdownAfterError
+[2021.05.19-10.49.47:677][662]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.05.19-10.49.47:677][662]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.05.19-10.49.47:723][662]Log file closed, 05/19/21 13:49:47
