@@ -3092,3 +3092,744 @@ Make sure 'ArchVis_Tablet_BP' has been compiled for  Get All Main Teleporters
 [2021.06.03-07.56.59:209][656]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.03-07.56.59:209][656]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArchVisVR/Maps/Overview_BuiltData.Overview_BuiltData
 [2021.06.03-07.56.59:209][656]LogContentValidation: Display: Validating World /Game/ArchVisVR/Maps/Overview.Overview
+[2021.06.03-07.58.30:692][638]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.03-07.58.30:692][638]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.03-07.58.31:539][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.06.03-07.58.34:093][690]LogSlate: Window 'Save Content' being destroyed
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz/Kamaz_tekstyr/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_Dakar/Textures/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_Dakar/Textures/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_Dakar/Textures/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_Dakar/Textures/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_Dakar/Textures/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_Dakar/Textures/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz_Dakar/Textures/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz/Kamaz_tekstyr/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz/Kamaz_tekstyr/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz/Kamaz_tekstyr/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz/Kamaz_tekstyr/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz/Kamaz_tekstyr/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz/Kamaz_tekstyr/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz/Kamaz_tekstyr/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz/Kamaz_tekstyr/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz/Kamaz_tekstyr/': No such file or directory
+[2021.06.03-07.58.34:778][690]SourceControl: Error: warning: could not open directory 'KamazRES/Content/res/Kamaz/Kamaz_tekstyr/': No such file or directory
+[2021.06.03-07.58.34:815][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz_Dakar/01_-_Default" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/01_-_Default.uasset" SILENT=true
+[2021.06.03-07.58.34:820][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/01_-_DefaultC42AAD5D49121B7095809D889E991A0D.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/01_-_Default.uasset'
+[2021.06.03-07.58.35:036][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz_Dakar/02_-_Default" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/02_-_Default.uasset" SILENT=true
+[2021.06.03-07.58.35:041][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/02_-_DefaultF8E621714F21DCBCA5ABCEBC17F2EB1C.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/02_-_Default.uasset'
+[2021.06.03-07.58.35:199][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz_Dakar/03_-_Default" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/03_-_Default.uasset" SILENT=true
+[2021.06.03-07.58.35:204][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/03_-_DefaultB771934C4BF614C1EBF86CBB0E841F3D.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/03_-_Default.uasset'
+[2021.06.03-07.58.35:368][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz_Dakar/04_-_Default" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/04_-_Default.uasset" SILENT=true
+[2021.06.03-07.58.35:373][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/04_-_Default05BE3B364D90900CB90B8896CBF7DC4C.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/04_-_Default.uasset'
+[2021.06.03-07.58.35:546][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz_Dakar/07_-_Default" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/07_-_Default.uasset" SILENT=true
+[2021.06.03-07.58.35:550][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/07_-_Default5556B68F4330CC97F42D2EBC6FB07EB7.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/07_-_Default.uasset'
+[2021.06.03-07.58.35:738][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz_Dakar/10_-_Default" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/10_-_Default.uasset" SILENT=true
+[2021.06.03-07.58.35:743][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/10_-_Default39E1B3E04D25357FE6512E92E5AC7C6B.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/10_-_Default.uasset'
+[2021.06.03-07.58.35:899][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz_Dakar/FM_reflectors" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/FM_reflectors.uasset" SILENT=true
+[2021.06.03-07.58.35:903][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/FM_reflectors4FFBA41C4991A29CD9685C94594E2B96.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/FM_reflectors.uasset'
+[2021.06.03-07.58.36:056][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz_Dakar/FM_reflectors_R" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/FM_reflectors_R.uasset" SILENT=true
+[2021.06.03-07.58.36:061][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/FM_reflectors_R33DA27A647026D4DA6D4879ED3C022EE.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/FM_reflectors_R.uasset'
+[2021.06.03-07.58.36:202][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz_Dakar/FM_Windglass_dark" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/FM_Windglass_dark.uasset" SILENT=true
+[2021.06.03-07.58.36:207][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/FM_Windglass_darkE189D0AD451B668CEF16449AC68DFC93.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/FM_Windglass_dark.uasset'
+[2021.06.03-07.58.36:356][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz_Dakar/Kamaz_Dakar" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Kamaz_Dakar.uasset" SILENT=true
+[2021.06.03-07.58.36:788][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Kamaz_Dakar19449C214641FF81E54237BC89A460CA.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Kamaz_Dakar.uasset'
+[2021.06.03-07.58.37:767][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/Material_001" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Material_001.uasset" SILENT=true
+[2021.06.03-07.58.37:773][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Material_00159F9E1D04B208FA6677DF1A797BE8008.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Material_001.uasset'
+[2021.06.03-07.58.37:912][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Material_001_Base_ColorD265908942D1336528ECD5A6E1EFC532.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Material_001/Material_001_Base_Color.uasset'
+[2021.06.03-07.58.38:027][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Material_001_Metallic6B36B6584D468694DADDDD800FF6747D.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Material_001/Material_001_Metallic.uasset'
+[2021.06.03-07.58.38:178][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Material_001_NormalDD1B0C9C46C49B24FF4388B7E67D3C2F.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Material_001/Material_001_Normal.uasset'
+[2021.06.03-07.58.38:402][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_Body_A_dC1D4B9854A0907BEADB689A72D9A52F5.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Body/t_Tk_Kamaz_Body_A_d.uasset'
+[2021.06.03-07.58.38:653][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_Body_A_d_Mat7B4D55BF40CE12D4EEC141A470C1B5E7.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Body/t_Tk_Kamaz_Body_A_d_Mat.uasset'
+[2021.06.03-07.58.39:181][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_Body_B_dC577E1F04FE8BAB97171BB8976ABC50E.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Body/t_Tk_Kamaz_Body_B_d.uasset'
+[2021.06.03-07.58.39:597][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_Engine_d10E5542B4D4F7112139175A5B20E0DD5.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Engine/t_Tk_Kamaz_Engine_d.uasset'
+[2021.06.03-07.58.39:825][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_Engine_d_MatC9A1436D41D908FB2C7BF0A43FC7F1DB.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Engine/t_Tk_Kamaz_Engine_d_Mat.uasset'
+[2021.06.03-07.58.40:086][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_Fill_d79DCB0DA465573CAB12CF48186AFED2F.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Fill/t_Tk_Kamaz_Fill_d.uasset'
+[2021.06.03-07.58.40:283][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_Fill_d_Mat08F1533140E4CFEDE102FE90EFDE261D.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Fill/t_Tk_Kamaz_Fill_d_Mat.uasset'
+[2021.06.03-07.58.40:554][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_InteriorMid_dCBAE59304EDBC44FBD200FAEE98FC397.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Interior_Mid/t_Tk_Kamaz_InteriorMid_d.uasset'
+[2021.06.03-07.58.40:851][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_InteriorMid_d_MatD89266C94F9B8A15521F989895D53981.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Interior_Mid/t_Tk_Kamaz_InteriorMid_d_Mat.uasset'
+[2021.06.03-07.58.41:020][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_InteriorMid_e_m4B8497EE465F6A397E6AFEB20E85B938.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Interior_Mid/t_Tk_Kamaz_InteriorMid_e_m.uasset'
+[2021.06.03-07.58.41:210][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_Mechanics_d8E65F790436D2A26B35F6CA25BAAC0D4.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Mechanics/t_Tk_Kamaz_Mechanics_d.uasset'
+[2021.06.03-07.58.41:385][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_Mechanics_d_Mat838B66EC4AA2899ED942FD8FB976640D.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Mechanics/t_Tk_Kamaz_Mechanics_d_Mat.uasset'
+[2021.06.03-07.58.41:531][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_Optics_d7269242D4CBABBBCF389D5B31C993259.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Optics/t_Tk_Kamaz_Optics_d.uasset'
+[2021.06.03-07.58.41:678][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_Optics_d_MatE502054C42D5FB9EC030E495C5F8D168.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Optics/t_Tk_Kamaz_Optics_d_Mat.uasset'
+[2021.06.03-07.58.41:813][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_Optics_e9E1A27D843ACB07898C9B9BDD80E5CD2.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Optics/t_Tk_Kamaz_Optics_e.uasset'
+[2021.06.03-07.58.42:014][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_Optics_e_Mat424DFA254AE7CAEA58FB55A5F866F447.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Optics/t_Tk_Kamaz_Optics_e_Mat.uasset'
+[2021.06.03-07.58.42:298][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_Wheels_d8F9AE089407518C12D115287B1F0FA19.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Wheels/t_Tk_Kamaz_Wheels_d.uasset'
+[2021.06.03-07.58.42:455][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/t_Tk_Kamaz_Wheels_d_Mat6C9EA3704C8637475E0BC5A84F1E47A2.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz_Dakar/Textures/Wheels/t_Tk_Kamaz_Wheels_d_Mat.uasset'
+[2021.06.03-07.58.42:619][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/Болты" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Болты.uasset" SILENT=true
+[2021.06.03-07.58.42:624][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Болты10D631DA4C8B5FD59C612EB227F3A91A.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Болты.uasset'
+[2021.06.03-07.58.42:775][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Болты_Base_Color93FDD75D4C16106272B7D083BD9A14C6.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Болты/Болты_Base_Color.uasset'
+[2021.06.03-07.58.42:916][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Болты_Metallic515F68F64796F7F5663C25926DD64CA9.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Болты/Болты_Metallic.uasset'
+[2021.06.03-07.58.43:063][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/Kamaz_tekstyr/Болты/Болты_Normal" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Болты/Болты_Normal.uasset" SILENT=true
+[2021.06.03-07.58.43:092][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Болты_NormalC90BAAF5400A53BA37D2E79E579AA92C.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Болты/Болты_Normal.uasset'
+[2021.06.03-07.58.43:215][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/КАМАЗ_Plane_003" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/КАМАЗ_Plane_003.uasset" SILENT=true
+[2021.06.03-07.58.43:240][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/КАМАЗ_Plane_0033E0A36784B6E25A80DFD2C908AA71FE7.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/КАМАЗ_Plane_003.uasset'
+[2021.06.03-07.58.43:375][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/kamaz_5320/Chrome/Материал_008" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/kamaz_5320/Chrome/Материал_008.uasset" SILENT=true
+[2021.06.03-07.58.43:377][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Материал_0081D59B2BB4C19566FE39961AB991F1E53.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/kamaz_5320/Chrome/Материал_008.uasset'
+[2021.06.03-07.58.43:389][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/Резина" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Резина.uasset" SILENT=true
+[2021.06.03-07.58.43:395][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Резина2E3CB816427C64444B4C83BE12B75777.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Резина.uasset'
+[2021.06.03-07.58.43:573][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Резина_Base_Color033BE79149EFD9970F5569BD03EAD457.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Резина/Резина_Base_Color.uasset'
+[2021.06.03-07.58.43:703][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Резина_MetallicBF0CA8CF41239E25D4E2A987DDE29F15.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Резина/Резина_Metallic.uasset'
+[2021.06.03-07.58.43:859][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Резина_Normal90C524F6414A7D79EA6CBA8AB235672B.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Резина/Резина_Normal.uasset'
+[2021.06.03-07.58.44:014][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/Серый" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Серый.uasset" SILENT=true
+[2021.06.03-07.58.44:020][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/СерыйEAB4B6E04C765AE304F7BA839570D7A5.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Серый.uasset'
+[2021.06.03-07.58.44:172][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Серый_Base_Color30E5AFAA47A7B30AACC0D5B51FD4B870.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Серый/Серый_Base_Color.uasset'
+[2021.06.03-07.58.44:303][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Серый_Metallic445339254A6F4397D93E26B274B6C094.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Серый/Серый_Metallic.uasset'
+[2021.06.03-07.58.44:433][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/Kamaz_tekstyr/Серый/Серый_Normal" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Серый/Серый_Normal.uasset" SILENT=true
+[2021.06.03-07.58.44:462][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Серый_Normal6546A8DD4E4233667D9AFC9316BB8E43.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Серый/Серый_Normal.uasset'
+[2021.06.03-07.58.44:597][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/Сталь_светл" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Сталь_светл.uasset" SILENT=true
+[2021.06.03-07.58.44:602][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Сталь_светлB258F4F44ACBDFE3AC0516B66399C5DB.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Сталь_светл.uasset'
+[2021.06.03-07.58.44:810][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Сталь_светл_Base_ColorD3A78B1F4271D7A0FF7BE5B805BDDF04.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Сталь_светл/Сталь_светл_Base_Color.uasset'
+[2021.06.03-07.58.44:991][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Сталь_светл_Metallic1EC9D14145323609663D30992BB95012.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Сталь_светл/Сталь_светл_Metallic.uasset'
+[2021.06.03-07.58.45:178][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Сталь_светл_Normal9D417EEA4896C81BF13A9EA655967AF8.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Сталь_светл/Сталь_светл_Normal.uasset'
+[2021.06.03-07.58.45:346][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/Сталь_темн" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Сталь_темн.uasset" SILENT=true
+[2021.06.03-07.58.45:351][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Сталь_темнFB932420451DC72AF46C01B645313CF3.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Сталь_темн.uasset'
+[2021.06.03-07.58.45:498][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Сталь_темн_Base_Color5BB1E9354F31F7CD8DE5828A05B99655.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Сталь_темн/Сталь_темн_Base_Color.uasset'
+[2021.06.03-07.58.45:631][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Сталь_темн_Metallic9ABC834441983BAE6DEBCEA4AE916B84.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Сталь_темн/Сталь_темн_Metallic.uasset'
+[2021.06.03-07.58.45:776][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Сталь_темн_Normal634A505647CBDD3C53B5E4A177F0DCBE.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Сталь_темн/Сталь_темн_Normal.uasset'
+[2021.06.03-07.58.45:916][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/Тёмно-серый" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Тёмно-серый.uasset" SILENT=true
+[2021.06.03-07.58.45:920][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Тёмно-серый66565D7E48FD871CC12F57A05FEC021D.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Тёмно-серый.uasset'
+[2021.06.03-07.58.46:165][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Тёмно-серый_Base_Color5313E6EB4C90EE887CEBFFBE583C2DC0.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Темно-серый/Тёмно-серый_Base_Color.uasset'
+[2021.06.03-07.58.46:353][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Тёмно-серый_Metallic9A097AA14262D9AE737B62AD68EF953A.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Темно-серый/Тёмно-серый_Metallic.uasset'
+[2021.06.03-07.58.46:665][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Тёмно-серый_Normal313B14114D751B743F09F697D3495061.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Темно-серый/Тёмно-серый_Normal.uasset'
+[2021.06.03-07.58.47:014][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/Фары" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Фары.uasset" SILENT=true
+[2021.06.03-07.58.47:019][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Фары244C92124ACA608ABE4C9596CF37A8DC.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Фары.uasset'
+[2021.06.03-07.58.47:183][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/Фары_001" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Фары_001.uasset" SILENT=true
+[2021.06.03-07.58.47:188][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Фары_001DF7ED2A14360D5795B9E229DCEA28581.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Фары_001.uasset'
+[2021.06.03-07.58.47:321][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Фары_001_Base_ColorE748625D4135DCD167A52698F63ADCD8.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Фары_001/Фары_001_Base_Color.uasset'
+[2021.06.03-07.58.47:519][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Фары_001_Metallic9A3FEF2E479BB072969DE7986339FAA3.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Фары_001/Фары_001_Metallic.uasset'
+[2021.06.03-07.58.47:666][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Фары_001_Normal9F5724B646708E53DD28C9940B85FC65.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Фары_001/Фары_001_Normal.uasset'
+[2021.06.03-07.58.47:784][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/Фары__стекло" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Фары__стекло.uasset" SILENT=true
+[2021.06.03-07.58.47:788][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Фары__стекло02D586A74922CDA0C67AEA86D20720D6.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Фары__стекло.uasset'
+[2021.06.03-07.58.47:928][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Фары__стекло_Base_ColorBAC4336C47FBD804E5AEFB904FE21DA7.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Фары_стекло/Фары__стекло_Base_Color.uasset'
+[2021.06.03-07.58.48:053][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Фары__стекло_Metallic383EF53E4353F740A2E4D4921127C5E2.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Фары_стекло/Фары__стекло_Metallic.uasset'
+[2021.06.03-07.58.48:209][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Фары__стекло_NormalB6B3C34E41E001CA14D7348734F847E8.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Фары_стекло/Фары__стекло_Normal.uasset'
+[2021.06.03-07.58.48:345][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Фары_Base_Color78E232B94A94D5F620C0BE899D32B958.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Фары/Фары_Base_Color.uasset'
+[2021.06.03-07.58.48:477][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/Kamaz_tekstyr/Фары/Фары_Metallic" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Фары/Фары_Metallic.uasset" SILENT=true
+[2021.06.03-07.58.48:480][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Фары_Metallic1176BA1F4453C4AAEC6320A9976C0A0A.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Фары/Фары_Metallic.uasset'
+[2021.06.03-07.58.48:599][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/Kamaz_tekstyr/Фары/Фары_Normal" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Фары/Фары_Normal.uasset" SILENT=true
+[2021.06.03-07.58.48:628][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Фары_NormalF447D30D4E0B48111C405E855FBD09BC.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Фары/Фары_Normal.uasset'
+[2021.06.03-07.58.48:764][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/res/Kamaz/Чёрный" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Чёрный.uasset" SILENT=true
+[2021.06.03-07.58.48:772][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Чёрный633FAF5848115775AD169ABC873D2D88.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Чёрный.uasset'
+[2021.06.03-07.58.48:948][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Чёрный_Base_ColorC2BA086849C3DADE6A93CE8BFFC9855F.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Чёрный/Чёрный_Base_Color.uasset'
+[2021.06.03-07.58.49:111][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Чёрный_Metallic0C2D074F468E56608BD896A1C02764A5.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Чёрный/Чёрный_Metallic.uasset'
+[2021.06.03-07.58.49:262][690]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Чёрный_Normal659EF43144747014BDA169BACC4B2C9E.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/res/Kamaz/Kamaz_tekstyr/Чёрный/Чёрный_Normal.uasset'
+[2021.06.03-07.58.49:467][690]LogSlate: Window 'KamazRES - Unreal Editor' being destroyed
+[2021.06.03-07.58.49:686][690]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/Textures/Interior_Mid/t_Tk_Kamaz_InteriorMid_d_Mat.t_Tk_Kamaz_InteriorMid_d_Mat
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/Textures/Wheels/t_Tk_Kamaz_Wheels_d_Mat.t_Tk_Kamaz_Wheels_d_Mat
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/Textures/Optics/t_Tk_Kamaz_Optics_d_Mat.t_Tk_Kamaz_Optics_d_Mat
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/Textures/Optics/t_Tk_Kamaz_Optics_e_Mat.t_Tk_Kamaz_Optics_e_Mat
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/Textures/Mechanics/t_Tk_Kamaz_Mechanics_d_Mat.t_Tk_Kamaz_Mechanics_d_Mat
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/Textures/Fill/t_Tk_Kamaz_Fill_d_Mat.t_Tk_Kamaz_Fill_d_Mat
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/Textures/Engine/t_Tk_Kamaz_Engine_d_Mat.t_Tk_Kamaz_Engine_d_Mat
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/Textures/Body/t_Tk_Kamaz_Body_A_d_Mat.t_Tk_Kamaz_Body_A_d_Mat
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz_Dakar/Textures/Wheels/t_Tk_Kamaz_Wheels_d.t_Tk_Kamaz_Wheels_d
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz_Dakar/Textures/Optics/t_Tk_Kamaz_Optics_e.t_Tk_Kamaz_Optics_e
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz_Dakar/Textures/Optics/t_Tk_Kamaz_Optics_d.t_Tk_Kamaz_Optics_d
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz_Dakar/Textures/Mechanics/t_Tk_Kamaz_Mechanics_d.t_Tk_Kamaz_Mechanics_d
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz_Dakar/Textures/Interior_Mid/t_Tk_Kamaz_InteriorMid_e_m.t_Tk_Kamaz_InteriorMid_e_m
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz_Dakar/Textures/Interior_Mid/t_Tk_Kamaz_InteriorMid_d.t_Tk_Kamaz_InteriorMid_d
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz_Dakar/Textures/Fill/t_Tk_Kamaz_Fill_d.t_Tk_Kamaz_Fill_d
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz_Dakar/Textures/Engine/t_Tk_Kamaz_Engine_d.t_Tk_Kamaz_Engine_d
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz_Dakar/Textures/Body/t_Tk_Kamaz_Body_B_d.t_Tk_Kamaz_Body_B_d
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz_Dakar/Textures/Body/t_Tk_Kamaz_Body_A_d.t_Tk_Kamaz_Body_A_d
+[2021.06.03-07.58.49:686][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/FM_reflectors_R.FM_reflectors_R
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/07_-_Default.07_-_Default
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/FM_Windglass_dark.FM_Windglass_dark
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/04_-_Default.04_-_Default
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/FM_reflectors.FM_reflectors
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/03_-_Default.03_-_Default
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/02_-_Default.02_-_Default
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/10_-_Default.10_-_Default
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz_Dakar/01_-_Default.01_-_Default
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating StaticMesh /Game/res/Kamaz_Dakar/Kamaz_Dakar.Kamaz_Dakar
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz/Резина.Резина
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz/Болты.Болты
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz/Фары_001.Фары_001
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz/Сталь_светл.Сталь_светл
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz/Фары__стекло.Фары__стекло
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz/Сталь_темн.Сталь_темн
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz/Фары.Фары
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz/Чёрный.Чёрный
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz/Тёмно-серый.Тёмно-серый
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz/Серый.Серый
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Material /Game/res/Kamaz/Material_001.Material_001
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating StaticMesh /Game/res/Kamaz/КАМАЗ_Plane_003.КАМАЗ_Plane_003
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Чёрный/Чёрный_Normal.Чёрный_Normal
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Чёрный/Чёрный_Metallic.Чёрный_Metallic
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Чёрный/Чёрный_Base_Color.Чёрный_Base_Color
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Фары_001/Фары_001_Normal.Фары_001_Normal
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Фары_001/Фары_001_Metallic.Фары_001_Metallic
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Фары_001/Фары_001_Base_Color.Фары_001_Base_Color
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Фары_стекло/Фары__стекло_Normal.Фары__стекло_Normal
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Фары_стекло/Фары__стекло_Metallic.Фары__стекло_Metallic
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Фары_стекло/Фары__стекло_Base_Color.Фары__стекло_Base_Color
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Фары/Фары_Normal.Фары_Normal
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Фары/Фары_Metallic.Фары_Metallic
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Фары/Фары_Base_Color.Фары_Base_Color
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Темно-серый/Тёмно-серый_Normal.Тёмно-серый_Normal
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Темно-серый/Тёмно-серый_Metallic.Тёмно-серый_Metallic
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Темно-серый/Тёмно-серый_Base_Color.Тёмно-серый_Base_Color
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Сталь_темн/Сталь_темн_Normal.Сталь_темн_Normal
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Сталь_темн/Сталь_темн_Metallic.Сталь_темн_Metallic
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Сталь_темн/Сталь_темн_Base_Color.Сталь_темн_Base_Color
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Сталь_светл/Сталь_светл_Normal.Сталь_светл_Normal
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Сталь_светл/Сталь_светл_Metallic.Сталь_светл_Metallic
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Сталь_светл/Сталь_светл_Base_Color.Сталь_светл_Base_Color
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Серый/Серый_Normal.Серый_Normal
+[2021.06.03-07.58.49:687][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Серый/Серый_Metallic.Серый_Metallic
+[2021.06.03-07.58.49:688][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Серый/Серый_Base_Color.Серый_Base_Color
+[2021.06.03-07.58.49:688][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Резина/Резина_Normal.Резина_Normal
+[2021.06.03-07.58.49:688][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Резина/Резина_Metallic.Резина_Metallic
+[2021.06.03-07.58.49:688][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Резина/Резина_Base_Color.Резина_Base_Color
+[2021.06.03-07.58.49:688][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Болты/Болты_Normal.Болты_Normal
+[2021.06.03-07.58.49:688][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Болты/Болты_Metallic.Болты_Metallic
+[2021.06.03-07.58.49:688][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Болты/Болты_Base_Color.Болты_Base_Color
+[2021.06.03-07.58.49:688][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Material_001/Material_001_Normal.Material_001_Normal
+[2021.06.03-07.58.49:688][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Material_001/Material_001_Metallic.Material_001_Metallic
+[2021.06.03-07.58.49:688][690]LogContentValidation: Display: Validating Texture2D /Game/res/Kamaz/Kamaz_tekstyr/Material_001/Material_001_Base_Color.Material_001_Base_Color
+[2021.06.03-07.58.49:688][690]LogContentValidation: Display: Validating Material /Game/res/kamaz_5320/Chrome/Материал_008.Материал_008
+[2021.06.03-07.58.49:693][691]Cmd: QUIT_EDITOR
+[2021.06.03-07.58.49:693][691]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.06.03-07.58.49:696][691]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.06.03-07.58.49:712][691]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.06.03-07.58.49:713][691]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.06.03-07.58.49:713][691]LogAudio: Display: Audio Device unregistered from world 'Overview'.
+[2021.06.03-07.58.49:713][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.03-07.58.49:714][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.03-07.58.50:477][691]LogAudio: Display: Audio Device Manager Shutdown
+[2021.06.03-07.58.50:477][691]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.03-07.58.50:481][691]LogExit: Preparing to exit.
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058576E00] Windows
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058576D00] Default__DeviceProfile
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058589400] WindowsNoEditor
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058575400] WindowsServer
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705858A700] WindowsClient
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058576600] IOS
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058589C00] iPadAir
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058575B00] iPadAir2
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058548100] IPadPro
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058527F00] iPadAir3
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058577300] iPadAir4
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058525900] iPadMini2
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058574F00] iPadMini3
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058527C00] iPadMini4
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058576900] iPadMini5
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705858AF00] iPhone6
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058588B00] iPodTouch6
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058525A00] iPhone7
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058525B00] iPodTouch7
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058588900] iPhone5S
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058526000] iPhone6Plus
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705858A500] iPhone6S
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058525400] iPhone6SPlus
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058589D00] iPhone7Plus
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058524500] iPhoneSE
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705858BE00] iPhone8
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058525300] iPhone8Plus
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705858B300] iPhoneX
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058525D00] iPhoneXS
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705858AA00] iPhoneXSMax
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058527B00] iPhoneXR
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058589200] iPhone11
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058527100] iPhone11Pro
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705858B000] iPhone11ProMax
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058524200] iPhoneSE2
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705858A300] iPhone12Mini
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058525100] iPhone12
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058589A00] iPhone12Pro
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058526700] iPhone12ProMax
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705858B600] iPadPro105
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058524C00] iPadPro129
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058589900] iPadPro97
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058526800] iPadPro2_129
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705858B400] iPad5
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058524800] iPad6
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058589100] iPad7
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058524300] iPad8
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058588C00] iPadPro11
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058527500] iPadPro2_11
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705858BC00] iPadPro3_129
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058525C00] iPadPro4_129
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705858AE00] AppleTV
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058525500] AppleTV4K
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058525E00] TVOS
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058549C00] Mac
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058524A00] MacClient
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [0000017058549A00] MacNoEditor
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705860D300] MacServer
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705854A500] Linux
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705860CA00] LinuxAArch64
+[2021.06.03-07.58.51:379][691]LogDeviceProfile: Device profile begin destroy: [000001705854B200] LinuxNoEditor
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705860C900] LinuxAArch64NoEditor
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [0000017058548C00] LinuxClient
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705860C300] LinuxAArch64Client
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [0000017058549000] LinuxServer
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705860CE00] LinuxAArch64Server
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [0000017058548600] Android
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [0000017058588400] Android_Low
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705854AC00] Android_Mid
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [0000017058588100] Android_High
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705854A600] Android_Default
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705858AD00] Android_Adreno4xx
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705854B900] Android_Adreno5xx_Low
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705858BB00] Android_Adreno5xx
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705854A800] Android_Adreno6xx
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [0000017058589B00] Android_Adreno6xx_Vulkan
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705854A200] Android_Mali_T6xx
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705858B800] Android_Mali_T7xx
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [0000017058548700] Android_Mali_T8xx
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [0000017058589800] Android_Mali_G71
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705854B400] Android_Mali_G72
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705858A100] Android_Mali_G72_Vulkan
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705854B300] Android_Mali_G76
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705858AB00] Android_Mali_G76_Vulkan
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705854B000] Android_Mali_G77
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705858A800] Android_Mali_G77_Vulkan
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [0000017058549400] Android_Vulkan_SM5
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705858B200] Android_PowerVR_G6xxx
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705854BC00] Android_PowerVR_GT7xxx
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [0000017058588600] Android_PowerVR_GE8xxx
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [0000017058549800] Android_PowerVR_GM9xxx
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [0000017058589F00] Android_PowerVR_GM9xxx_Vulkan
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705854AE00] Android_TegraK1
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [000001705858BA00] Android_Unknown_Vulkan
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [0000017058549B00] Lumin
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [0000017058588200] Lumin_Desktop
+[2021.06.03-07.58.51:380][691]LogDeviceProfile: Device profile begin destroy: [0000017058576500] HoloLens
+[2021.06.03-07.58.51:388][691]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.06.03-07.58.51:388][691]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.03-07.58.51:388][691]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.06.03-07.58.51:388][691]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.03-07.58.51:477][691]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.06.03-07.58.51:511][691]LogExit: Editor shut down
+[2021.06.03-07.58.51:513][691]LogExit: Transaction tracking system shut down
+[2021.06.03-07.58.51:823][691]LogExit: Object subsystem successfully closed.
+[2021.06.03-07.58.51:844][691]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.06.03-07.58.51:884][691]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (830)
+[2021.06.03-07.58.51:884][691]LogModuleManager: Shutting down and abandoning module TextureEditor (828)
+[2021.06.03-07.58.51:884][691]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (826)
+[2021.06.03-07.58.51:884][691]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (824)
+[2021.06.03-07.58.51:884][691]LogModuleManager: Shutting down and abandoning module SceneOutliner (822)
+[2021.06.03-07.58.51:884][691]LogModuleManager: Shutting down and abandoning module AddContentDialog (820)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module WidgetCarousel (819)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module EditorWidgets (816)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module StatsViewer (814)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (812)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (810)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module AutomationWorker (808)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module SteamVREditor (806)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module OculusMR (804)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module GooglePADEditor (802)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (800)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (798)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (796)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (794)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (792)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (790)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (788)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (786)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (784)
+[2021.06.03-07.58.51:897][691]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (782)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (780)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (778)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module WebMMedia (776)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (774)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (772)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module SequenceRecorder (771)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (768)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (766)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (764)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (762)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (760)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (758)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (756)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module PlanarCut (754)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module CharacterAI (752)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (750)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module TextureAlignMode (748)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module BspMode (746)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module GeometryMode (744)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module SmartSnapping (742)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module SessionServices (740)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (738)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module FoliageEdit (736)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module LandscapeEditor (734)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module MeshPaintMode (732)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module MeshPaint (731)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (728)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module ActorPickerMode (726)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module PlacementMode (724)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module ViewportSnapping (722)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module ViewportInteraction (720)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module ClothPainter (718)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (717)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module LogVisualizer (714)
+[2021.06.03-07.58.51:898][691]LogModuleManager: Shutting down and abandoning module IntroTutorials (712)
+[2021.06.03-07.58.51:913][691]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (711)
+[2021.06.03-07.58.51:913][691]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (708)
+[2021.06.03-07.58.51:913][691]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (706)
+[2021.06.03-07.58.51:913][691]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (704)
+[2021.06.03-07.58.51:913][691]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (703)
+[2021.06.03-07.58.53:520][691]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (700)
+[2021.06.03-07.58.53:520][691]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (698)
+[2021.06.03-07.58.53:520][691]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (696)
+[2021.06.03-07.58.53:520][691]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (694)
+[2021.06.03-07.58.53:520][691]LogModuleManager: Shutting down and abandoning module TraceInsights (692)
+[2021.06.03-07.58.53:521][691]MemoryProfiler: Shutdown
+[2021.06.03-07.58.53:521][691]NetworkingProfiler: Shutdown
+[2021.06.03-07.58.53:521][691]LoadingProfiler: Shutdown
+[2021.06.03-07.58.53:521][691]TimingProfiler: Shutdown
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module TraceServices (691)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (688)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (686)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module InputBindingEditor (684)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module MergeActors (682)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (680)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module LocalizationService (679)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module HardwareTargeting (676)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (674)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module UndoHistory (672)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module XmlParser (670)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module Blutility (668)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (666)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (665)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (662)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (661)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module SettingsEditor (658)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module ProjectLauncher (656)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module SessionFrontend (654)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module ProfilerClient (652)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module DeviceManager (650)
+[2021.06.03-07.58.53:521][691]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (649)
+[2021.06.03-07.58.53:554][691]LogModuleManager: Shutting down and abandoning module AutomationController (646)
+[2021.06.03-07.58.53:554][691]LogModuleManager: Shutting down and abandoning module AutomationWindow (644)
+[2021.06.03-07.58.53:554][691]LogModuleManager: Shutting down and abandoning module Layers (642)
+[2021.06.03-07.58.53:554][691]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (640)
+[2021.06.03-07.58.53:554][691]LogModuleManager: Shutting down and abandoning module DetailCustomizations (638)
+[2021.06.03-07.58.53:554][691]LogModuleManager: Shutting down and abandoning module PackagesDialog (636)
+[2021.06.03-07.58.53:554][691]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (634)
+[2021.06.03-07.58.53:554][691]LogModuleManager: Shutting down and abandoning module Persona (632)
+[2021.06.03-07.58.53:554][691]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (631)
+[2021.06.03-07.58.53:554][691]LogModuleManager: Shutting down and abandoning module AnimGraph (629)
+[2021.06.03-07.58.53:554][691]LogModuleManager: Shutting down and abandoning module Kismet (626)
+[2021.06.03-07.58.53:555][691]LogModuleManager: Shutting down and abandoning module KismetWidgets (625)
+[2021.06.03-07.58.53:555][691]LogModuleManager: Shutting down and abandoning module GraphEditor (622)
+[2021.06.03-07.58.53:555][691]LogModuleManager: Shutting down and abandoning module StructViewer (620)
+[2021.06.03-07.58.53:555][691]LogModuleManager: Shutting down and abandoning module ClassViewer (618)
+[2021.06.03-07.58.53:555][691]LogModuleManager: Shutting down and abandoning module Toolbox (616)
+[2021.06.03-07.58.53:555][691]LogModuleManager: Shutting down and abandoning module ModuleUI (614)
+[2021.06.03-07.58.53:555][691]LogModuleManager: Shutting down and abandoning module OutputLog (612)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module GammaUI (610)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module Documentation (608)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module LiveCoding (606)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module LevelSequence (604)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (602)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module MovieScene (600)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (598)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module LauncherPlatform (596)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module AnalyticsET (594)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module PortalServices (592)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module PortalRpc (590)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module MessagingRpc (588)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (586)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module AudioMixerCore (585)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module AIModule (582)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module GameplayDebugger (581)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module AITestSuite (579)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module NavigationSystem (577)
+[2021.06.03-07.58.53:556][691]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (574)
+[2021.06.03-07.58.53:560][691]LogModuleManager: Shutting down and abandoning module ProfilerService (572)
+[2021.06.03-07.58.53:748][691]LogModuleManager: Shutting down and abandoning module TaskGraph (570)
+[2021.06.03-07.58.53:748][691]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (568)
+[2021.06.03-07.58.53:748][691]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (566)
+[2021.06.03-07.58.53:748][691]LogModuleManager: Shutting down and abandoning module SubstanceLink (564)
+[2021.06.03-07.58.53:796][691]LogModuleManager: Shutting down and abandoning module SubstanceEditor (562)
+[2021.06.03-07.58.53:815][691]LogModuleManager: Shutting down and abandoning module OculusEditor (560)
+[2021.06.03-07.58.53:815][691]LogModuleManager: Shutting down and abandoning module OculusInput (558)
+[2021.06.03-07.58.53:815][691]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (556)
+[2021.06.03-07.58.53:815][691]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (554)
+[2021.06.03-07.58.53:815][691]LogModuleManager: Shutting down and abandoning module CollectionManager (553)
+[2021.06.03-07.58.53:815][691]LogModuleManager: Shutting down and abandoning module SynthesisEditor (550)
+[2021.06.03-07.58.53:815][691]LogModuleManager: Shutting down and abandoning module Synthesis (548)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module GooglePAD (546)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module ScreenshotTools (544)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (542)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (540)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (538)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module EditableMesh (536)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (534)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module AudioCapture (532)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (531)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module CableComponent (528)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module AssetTags (526)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (524)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (522)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module AppleImageUtils (520)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module AndroidPermission (518)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (516)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (514)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module TemplateSequence (512)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module ImgMedia (510)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module MediaCompositing (508)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (506)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (504)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (502)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (500)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (498)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (496)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module MotoSynth (494)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module MeshConversion (492)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module DynamicMesh (490)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (488)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module GeometricObjects (486)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (484)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (483)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (480)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (478)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (476)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (474)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (472)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (470)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module ChaosNiagara (468)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module FractureEditor (466)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (465)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (462)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module BackChannel (460)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (458)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module AutomationUtils (456)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module AlembicImporter (454)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module AlembicLibrary (453)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module GeometryCache (452)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (451)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (446)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (444)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (442)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (440)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module UObjectPlugin (438)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (436)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (434)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module PluginUtils (432)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (430)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (428)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module GitSourceControl (426)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module SourceControl (425)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (422)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (420)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (418)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module PluginBrowser (416)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (414)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (412)
+[2021.06.03-07.58.53:816][691]LogModuleManager: Shutting down and abandoning module CurveEditorTools (410)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (408)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module CryptoKeys (406)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (404)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (402)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (400)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module Paper2DEditor (398)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (396)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (394)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module SoundFields (392)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module SignificanceManager (390)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (388)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (386)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (384)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (380)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (378)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (376)
+[2021.06.03-07.58.53:817][691]LogModuleManager: Shutting down and abandoning module SubstanceCore (374)
+[2021.06.03-07.58.53:818][691]LogModuleManager: Shutting down and abandoning module ActorSequence (372)
+[2021.06.03-07.58.53:818][691]LogModuleManager: Shutting down and abandoning module UdpMessaging (370)
+[2021.06.03-07.58.53:919][691]LogModuleManager: Shutting down and abandoning module TcpMessaging (368)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (366)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (364)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (362)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (360)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (358)
+[2021.06.03-07.58.54:020][691]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (356)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (354)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (352)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (350)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module MagicLeapController (348)
+[2021.06.03-07.58.54:020][691]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (346)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module MagicLeapAR (344)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module AugmentedReality (343)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (340)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module Niagara (338)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module SignalProcessing (337)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module NiagaraEditor (335)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module NiagaraCore (332)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (330)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module AnimationSharing (328)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (326)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (324)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module FacialAnimation (322)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module DataValidation (320)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (318)
+[2021.06.03-07.58.54:020][691]LogModuleManager: Shutting down and abandoning module LevelEditor (317)
+[2021.06.03-07.58.54:021][691]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (316)
+[2021.06.03-07.58.54:021][691]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (314)
+[2021.06.03-07.58.54:021][691]LogModuleManager: Shutting down and abandoning module MainFrame (312)
+[2021.06.03-07.58.54:021][691]LogModuleManager: Shutting down and abandoning module HotReload (311)
+[2021.06.03-07.58.54:021][691]LogModuleManager: Shutting down and abandoning module ToolMenus (307)
+[2021.06.03-07.58.54:021][691]LogModuleManager: Shutting down and abandoning module ContentBrowser (305)
+[2021.06.03-07.58.54:021][691]LogModuleManager: Shutting down and abandoning module ContentBrowserData (304)
+[2021.06.03-07.58.54:021][691]LogModuleManager: Shutting down and abandoning module TreeMap (301)
+[2021.06.03-07.58.54:021][691]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (298)
+[2021.06.03-07.58.54:021][691]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (296)
+[2021.06.03-07.58.54:021][691]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2021.06.03-07.58.54:021][691]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2021.06.03-07.58.54:023][691]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2021.06.03-07.58.54:024][691]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2021.06.03-07.58.54:024][691]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2021.06.03-07.58.54:024][691]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2021.06.03-07.58.54:024][691]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2021.06.03-07.58.54:024][691]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2021.06.03-07.58.54:024][691]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2021.06.03-07.58.54:024][691]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2021.06.03-07.58.54:024][691]LogModuleManager: Shutting down and abandoning module Core (232)
+[2021.06.03-07.58.54:024][691]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2021.06.03-07.58.54:024][691]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2021.06.03-07.58.54:024][691]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2021.06.03-07.58.54:024][691]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2021.06.03-07.58.54:024][691]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2021.06.03-07.58.54:025][691]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2021.06.03-07.58.54:026][691]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2021.06.03-07.58.54:026][691]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2021.06.03-07.58.54:026][691]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2021.06.03-07.58.54:026][691]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2021.06.03-07.58.54:026][691]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2021.06.03-07.58.54:026][691]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2021.06.03-07.58.54:026][691]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2021.06.03-07.58.54:027][691]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2021.06.03-07.58.54:027][691]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2021.06.03-07.58.54:027][691]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2021.06.03-07.58.54:027][691]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2021.06.03-07.58.54:027][691]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2021.06.03-07.58.54:027][691]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2021.06.03-07.58.54:027][691]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2021.06.03-07.58.54:027][691]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2021.06.03-07.58.54:030][691]LogHMD: Freeing OpenVRDLLHandle.
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2021.06.03-07.58.54:030][691]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2021.06.03-07.58.54:031][691]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2021.06.03-07.58.54:031][691]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2021.06.03-07.58.54:046][691]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2021.06.03-07.58.54:046][691]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2021.06.03-07.58.54:046][691]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BED495A39-4C6F-9A4A-AAB4-1B85049710F2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=788fa5834703e3a1a30b7eb91d1e8623%7C10252663fd9d4f6bb548f91dc2f281c9%7C8d458d74-5069-4306-809b-ef5881ded8b4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.06.03-07.58.54:046][691]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BED495A39-4C6F-9A4A-AAB4-1B85049710F2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=788fa5834703e3a1a30b7eb91d1e8623%7C10252663fd9d4f6bb548f91dc2f281c9%7C8d458d74-5069-4306-809b-ef5881ded8b4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.06.03-07.58.54:046][691]LogHttp: Display: cleaning up 2 outstanding Http requests.
+[2021.06.03-07.58.54:062][691]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2021.06.03-07.58.54:063][691]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2021.06.03-07.58.54:064][691]LogModuleManager: Shutting down and abandoning module Media (71)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.06.03-07.58.54:065][691]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.06.03-07.58.54:066][691]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.06.03-07.58.54:066][691]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.06.03-07.58.54:066][691]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.06.03-07.58.54:066][691]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.06.03-07.58.54:066][691]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.06.03-07.58.54:066][691]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.06.03-07.58.54:066][691]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.06.03-07.58.54:066][691]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.06.03-07.58.54:066][691]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.06.03-07.58.54:066][691]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.06.03-07.58.54:066][691]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.06.03-07.58.54:066][691]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.06.03-07.58.54:066][691]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.06.03-07.58.54:067][691]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.06.03-07.58.54:067][691]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.06.03-07.58.54:067][691]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.06.03-07.58.54:067][691]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.06.03-07.58.54:078][691]LogD3D11RHI: Shutdown
+[2021.06.03-07.58.54:078][691]LogD3D11RHI: CleanupD3DDevice
+[2021.06.03-07.58.54:101][691]LogExit: Exiting.
+[2021.06.03-07.58.54:133][691]Log file closed, 06/03/21 10:58:54
