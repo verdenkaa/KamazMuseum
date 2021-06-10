@@ -1,0 +1,919 @@
+﻿Log file open, 06/10/21 11:09:23
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: KamazRES
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.171748
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: FOculusHMDModule PreInit successfully
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/unreal/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+[2021.06.10-08.09.24:047][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.10-08.09.24:047][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+[2021.06.10-08.09.24:047][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+[2021.06.10-08.09.24:052][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.06.10-08.09.24:052][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.10-08.09.24:053][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.10-08.09.24:053][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.10-08.09.24:053][  0]LogHAL: Display: Platform has ~ 16 GB [17108312064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.10-08.09.24:053][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.10-08.09.24:053][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.10-08.09.24:053][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Scalability.ini]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.10-08.09.24:054][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Engine.ini]
+[2021.06.10-08.09.24:054][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/gitclones/KamazMuseum/KamazRES/Saved/Config/Windows/Editor.ini]
+[2021.06.10-08.09.24:054][  0]LogInit: Computer: DESKTOP-0J1NFDI
+[2021.06.10-08.09.24:054][  0]LogInit: User: User
+[2021.06.10-08.09.24:054][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.06.10-08.09.24:054][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.10-08.09.24:054][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.06.10-08.09.24:054][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.10-08.09.24:054][  0]LogMemory: Process Physical Memory: 140.16 MB used, 140.16 MB peak
+[2021.06.10-08.09.24:054][  0]LogMemory: Process Virtual Memory: 121.42 MB used, 121.42 MB peak
+[2021.06.10-08.09.24:054][  0]LogMemory: Physical Memory: 6284.02 MB used,  10031.74 MB free, 16315.76 MB total
+[2021.06.10-08.09.24:054][  0]LogMemory: Virtual Memory: 134209208.00 MB used,  8520.55 MB free, 134217728.00 MB total
+[2021.06.10-08.09.24:059][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.10-08.09.24:087][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.10-08.09.24:087][  0]LogInit: Using OS detected language (ru-RU).
+[2021.06.10-08.09.24:087][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.06.10-08.09.24:089][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.06.10-08.09.24:089][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.06.10-08.09.24:089][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.06.10-08.09.24:089][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.06.10-08.09.24:089][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.06.10-08.09.24:089][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.06.10-08.09.24:090][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.06.10-08.09.24:090][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.06.10-08.09.24:090][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.10-08.09.24:099][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.10-08.09.24:107][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.10-08.09.24:107][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.10-08.09.24:201][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.10-08.09.24:201][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.10-08.09.24:201][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.10-08.09.24:261][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.06.10-08.09.24:261][  0]LogD3D11RHI:       5980/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.10-08.09.24:262][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.10-08.09.24:262][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.10-08.09.24:262][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.10-08.09.24:266][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.10-08.09.24:266][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.10-08.09.24:266][  0]LogWindows: EnumDisplayDevices:
+[2021.06.10-08.09.24:266][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2021.06.10-08.09.24:266][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.06.10-08.09.24:267][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.06.10-08.09.24:267][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.06.10-08.09.24:267][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.10-08.09.24:267][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.06.10-08.09.24:267][  0]LogD3D11RHI:   Driver Version: 466.47 (internal:27.21.14.6647, unified:466.47)
+[2021.06.10-08.09.24:267][  0]LogD3D11RHI:      Driver Date: 5-13-2021
+[2021.06.10-08.09.24:267][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.06.10-08.09.24:309][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.10-08.09.24:309][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.10-08.09.24:309][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.10-08.09.24:331][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.06.10-08.09.24:332][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.10-08.09.24:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.10-08.09.24:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.10-08.09.24:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.10-08.09.24:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.10-08.09.24:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.10-08.09.24:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.10-08.09.24:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.10-08.09.24:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.10-08.09.24:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.10-08.09.24:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.10-08.09.24:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.10-08.09.24:581][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.10-08.09.24:581][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.10-08.09.24:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.10-08.09.24:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.10-08.09.24:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.10-08.09.24:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.10-08.09.24:613][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.10-08.09.24:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.10-08.09.24:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.10-08.09.24:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.10-08.09.24:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.10-08.09.24:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.10-08.09.24:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.10-08.09.24:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.10-08.09.24:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.10-08.09.24:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.10-08.09.24:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.10-08.09.24:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.10-08.09.24:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.10-08.09.24:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.10-08.09.24:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.10-08.09.24:705][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.10-08.09.24:709][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.10-08.09.24:749][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.10-08.09.24:749][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../gitclones/KamazMuseum/KamazRES/Intermediate/Shaders/WorkingDirectory/13472/).
+[2021.06.10-08.09.24:749][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/51B2363E4C70759CFE3646BC4CC7DE90/'.
+[2021.06.10-08.09.24:749][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.10-08.09.24:749][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.10-08.09.25:421][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.10-08.09.25:479][  0]LogDerivedDataCache: Loaded boot cache 0.06s 102MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.10-08.09.25:479][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.10-08.09.25:479][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../gitclones/KamazMuseum/KamazRES/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.10-08.09.25:479][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.10-08.09.25:480][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../gitclones/KamazMuseum/KamazRES/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.10-08.09.25:480][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.10-08.09.25:490][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.10-08.09.25:490][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.10-08.09.25:490][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.10-08.09.25:494][  0]LogDerivedDataCache: Speed tests for C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2021.06.10-08.09.25:494][  0]LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1755.12MBs, RandomWriteSpeed=313.82MBs. Assigned SpeedClass 'Local'
+[2021.06.10-08.09.25:494][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.10-08.09.25:494][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.10-08.09.25:494][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.10-08.09.25:536][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.10-08.09.25:536][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.10-08.09.25:557][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.06.10-08.09.25:744][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.10-08.09.25:744][  0]LogInit: Active device profile: [000001DBA31E5A00][000001DBA29A7AC0 49] Windows
+[2021.06.10-08.09.25:744][  0]LogInit: Profiles: [000001DBA31E5A00][000001DBA29A7AC0 49] Windows, [000001DBA31C6900][000001DBA29BBC40 49] WindowsNoEditor, [000001DBA31E7400][000001DBA29BE100 49] WindowsServer, [000001DBA31C4F00][000001DBA29CE280 49] WindowsClient, [000001DBA31E5000][000001DBA29EE400 49] IOS, [000001DBA31C7B00][000001DBA29F2580 49] iPadAir, [000001DBA31E7100][000001DBA29F6700 49] iPadAir2, [000001DBA2F32900][000001DBA2A029C0 49] IPadPro, [000001DBA2F32A00][000001DBA29FAA00 49] iPadAir3, [000001DBA31E5B00][000001DBA2A06B80 49] iPadAir4, [000001DBA2F33F00][000001DBA2A0AD00 49] iPadMini2, [000001DBA31E4C00][000001DBA2A12E80 49] iPadMini3, [000001DBA2F31A00][000001DBA2A17000 49] iPadMini4, [000001DBA31E6000][000001DBA2A1B180 49] iPadMini5, [000001DBA2F46200][000001DBA2A2F440 49] iPhone6, [000001DBA2F46300][000001DBA2A1F480 49] iPodTouch6, [000001DBA31C4200][000001DBA2A37740 49] iPhone7, [000001DBA31C4400][000001DBA2A33780 49] iPodTouch7, [000001DBA2F47900][000001DBA29B78C0 49] iPhone5S, [000001DBA31C6C00][000001DBA2A3BA00 49] iPhone6Plus, [000001DBA2F45800][000001DBA2A3FB40 49] iPhone6S, [000001DBA31C6000][000001DBA2A47CC0 49] iPhone6SPlus, [000001DBA2F44900][000001DBA2A4A180 49] iPhone7Plus, [000001DBA31C5400][000001DBA2A4E300 49] iPhoneSE, [000001DBA2F47500][000001DBA2A52480 49] iPhone8, [000001DBA31C7600][000001DBA2A56600 49] iPhone8Plus, [000001DBA2F46F00][000001DBA2A5A780 49] iPhoneX, [000001DBA31C5900][000001DBA2A5E900 49] iPhoneXS, [000001DBA2F46900][000001DBA2A62A80 49] iPhoneXSMax, [000001DBA31C7400][000001DBA2A66C00 49] iPhoneXR, [000001DBA2F47A00][000001DBA2A6AD80 49] iPhone11, [000001DBA31C5600][000001DBA2A6EF00 49] iPhone11Pro, [000001DBA2F46C00][000001DBA2A73080 49] iPhone11ProMax, [000001DBA31C5300][000001DBA2A77200 49] iPhoneSE2, [000001DBA2F44700][000001DBA2A7B380 49] iPhone12Mini, [000001DBA31C5000][000001DBA2393500 49] iPhone12, [000001DBA2F44600][000001DBA2397680 49] iPhone12Pro, [000001DBA2F47100][000001DBA239B800 49] iPhone12ProMax, [000001DBA31E4500][000001DBA2A43940 49] iPadPro105, [000001DBA2F47C00][000001DBA239FA80 49] iPadPro129, [000001DBA31E7D00][000001DBA23A3BC0 49] iPadPro97, [000001DBA2F44C00][000001DBA23A7D00 49] iPadPro2_129, [000001DBA31E7F00][000001DBA23AE1C0 49] iPad5, [000001DBA2F45F00][000001DBA23B2340 49] iPad6, [000001DBA31C7900][000001DBA23B64C0 49] iPad7, [000001DBA2F45E00][000001DBA23BA640 49] iPad8, [000001DBA31C4D00][000001DBA23BE7C0 49] iPadPro11, [000001DBA2F44A00][000001DBA23C2940 49] iPadPro2_11, [000001DBA31C5A00][000001DBA23C6AC0 49] iPadPro3_129, [000001DBA2F47700][000001DBA23CAC40 49] iPadPro4_129, [000001DBA31C7C00][000001DBA23CEDC0 49] AppleTV, [000001DBA2F47000][000001DBA23D2F40 49] AppleTV4K, [000001DBA31C7500][000001DBA24130C0 49] TVOS, [000001DBA2F46800][000001DBA2417240 49] Mac, [000001DBA31C6D00][000001DBA241B3C0 49] MacClient, [000001DBA2F44800][000001DBA241F540 49] MacNoEditor, [000001DBA31C6F00][000001DBA24236C0 49] MacServer, [000001DBA2F44400][000001DBA2427840 49] Linux, [000001DBA31C4B00][000001DBA23AB980 49] LinuxAArch64, [000001DBA2F46600][000001DBA242BAC0 49] LinuxNoEditor, [000001DBA31C5700][000001DBA242FC00 49] LinuxAArch64NoEditor, [000001DBA2F47D00][000001DBA2433D40 49] LinuxClient, [000001DBA31C7700][000001DBA243A200 49] LinuxAArch64Client, [000001DBA2F44D00][000001DBA243E380 49] LinuxServer, [000001DBA31C5500][000001DBA2442500 49] LinuxAArch64Server, [000001DBA2F46B00][000001DBA2446680 49] Android, [000001DBA31C5D00][000001DBA244A800 49] Android_Low, [000001DBA2F46400][000001DBA244E980 49] Android_Mid, [000001DBA31C4900][000001DBA2452B00 49] Android_High, [000001DBA2F47F00][000001DBA2456C80 49] Android_Default, [000001DBA31C4100][000001DBA245AE00 49] Android_Adreno4xx, [000001DBA2F45400][000001DBA245EF80 49] Android_Adreno5xx_Low, [000001DBA31C4C00][000001DBA2463100 49] Android_Adreno5xx, [000001DBA2F44F00][000001DBA2467280 49] Android_Adreno6xx, [000001DBA31C6700][000001DBA246B400 49] Android_Adreno6xx_Vulkan, [000001DBA2F46A00][000001DBA246F580 49] Android_Mali_T6xx, [000001DBA31C4300][000001DBA2473700 49] Android_Mali_T7xx, [000001DBA2F45600][000001DBA2477880 49] Android_Mali_T8xx, [000001DBA31C7D00][000001DBA247BA00 49] Android_Mali_G71, [000001DBA2F44300][000001DBA2437B40 49] Android_Mali_G72, [000001DBA31C5E00][000001DBA247FC80 49] Android_Mali_G72_Vulkan, [000001DBA2F45500][000001DBA2482100 49] Android_Mali_G76, [000001DBA31C6300][000001DBA248A280 49] Android_Mali_G76_Vulkan, [000001DBA2F44200][000001DBA248E400 49] Android_Mali_G77, [000001DBA31C4800][000001DBA2492580 49] Android_Mali_G77_Vulkan, [000001DBA2F46D00][000001DBA2496700 49] Android_Vulkan_SM5, [000001DBA31E5400][000001DBA249A880 49] Android_PowerVR_G6xxx, [000001DBA2F30700][000001DBA249EA00 49] Android_PowerVR_GT7xxx, [000001DBA31E7700][000001DBA24A2B80 49] Android_PowerVR_GE8xxx, [000001DBA2F31900][000001DBA24A6D00 49] Android_PowerVR_GM9xxx, [000001DBA31E6E00][000001DBA24AAE80 49] Android_PowerVR_GM9xxx_Vulkan, [000001DBA2F31000][000001DBA24AF000 49] Android_TegraK1, [000001DBA31E4800][000001DBA24B3180 49] Android_Unknown_Vulkan, [000001DBA2F30600][000001DBA24B7300 49] Lumin, [000001DBA31E5700][000001DBA24BB480 49] Lumin_Desktop, [000001DBA2F31F00][000001DBA24BF600 49] HoloLens, 
+[2021.06.10-08.09.25:833][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.10-08.09.25:833][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.10-08.09.25:833][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.10-08.09.25:833][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.10-08.09.25:833][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.10-08.09.25:845][  0]LogNetVersion: KamazRES 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3109468978)
+[2021.06.10-08.09.26:194][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.10-08.09.26:216][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.021665 seconds
+[2021.06.10-08.09.26:220][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.06.10-08.09.26:220][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.06.10-08.09.26:220][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.10-08.09.26:494][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2021.06.10-08.09.26:503][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.10-08.09.26:507][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.10-08.09.26:545][  0]LogLinker: Warning: Failed to load '/Game/Dakar/VehicleAdvBP/AdvancedVehicleOverview': Can't find file.
+[2021.06.10-08.09.26:545][  0]LogLinker: Warning: Failed to load '/Game/Dakar/VehicleAdvBP/AdvancedVehicleOverview': Can't find file.
+[2021.06.10-08.09.26:545][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Dakar/VehicleAdvBP/AdvancedVehicleOverview.AdvancedVehicleOverview_C'
+[2021.06.10-08.09.26:601][  0]SourceControl: Source control is disabled
+[2021.06.10-08.09.26:891][  0]LogUProjectInfo: Found projects:
+[2021.06.10-08.09.27:013][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.10-08.09.27:028][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.10-08.09.27:028][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.10-08.09.27:065][  0]LogCollectionManager: Loaded 0 collections in 0.000608 seconds
+[2021.06.10-08.09.27:082][  0]LogFileCache: Scanning file cache for directory 'D:/gitclones/KamazMuseum/KamazRES/Saved/Collections/' took 0.00s
+[2021.06.10-08.09.27:082][  0]LogFileCache: Scanning file cache for directory 'D:/gitclones/KamazMuseum/KamazRES/Content/Developers/User/Collections/' took 0.00s
+[2021.06.10-08.09.27:082][  0]LogFileCache: Scanning file cache for directory 'D:/gitclones/KamazMuseum/KamazRES/Content/Collections/' took 0.00s
+[2021.06.10-08.09.27:082][  0]LogOcInput: OculusInput pre-init called
+[2021.06.10-08.09.27:241][  0]LogWindows: Failed to load '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_link.dll' (GetLastError=126)
+[2021.06.10-08.09.27:241][  0]LogWindows: File '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_link.dll' does not exist
+[2021.06.10-08.09.27:241][  0]LogWindows: Failed to load '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_portal_cli.dll' (GetLastError=126)
+[2021.06.10-08.09.27:241][  0]LogWindows: File '../../../Engine/Plugins/Marketplace/Substance/DLLs/Release/Win64/substance_portal_cli.dll' does not exist
+[2021.06.10-08.09.27:289][  0]LogEngine: Initializing Engine...
+[2021.06.10-08.09.27:289][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.10-08.09.27:289][  0]LogHMD: Initializing OVRPlugin session
+[2021.06.10-08.09.27:411][  0]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2021.06.10-08.09.27:411][  0]LogHMD: Oculus plugin initialized. Version: 4.26.2-15973114+++UE4+Release-4.26, OVRPlugin: 1.51.0
+[2021.06.10-08.09.27:412][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.10-08.09.27:506][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.10-08.09.27:513][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.10-08.09.27:524][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.10-08.09.27:527][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.10-08.09.27:527][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.10-08.09.27:527][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.10-08.09.27:527][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.10-08.09.27:527][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.10-08.09.27:527][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.10-08.09.27:527][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.10-08.09.27:527][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.10-08.09.27:527][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.10-08.09.27:527][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.10-08.09.27:527][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.10-08.09.27:527][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.10-08.09.27:538][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.10-08.09.27:538][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.10-08.09.27:564][  0]LogAudioMixer: Display: Using Audio Device Наушники (6- Rift S)
+[2021.06.10-08.09.27:566][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.10-08.09.27:568][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.10-08.09.27:568][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.10-08.09.27:569][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.10-08.09.27:569][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.10-08.09.27:569][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.10-08.09.27:569][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.10-08.09.27:569][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.10-08.09.27:569][  0]LogInit: FAudioDevice initialized.
+[2021.06.10-08.09.27:570][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.10-08.09.27:570][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.10-08.09.27:633][  0]LogDerivedDataCache: Saved boot cache 0.06s 102MB C:/Users/User/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.10-08.09.27:636][  0]LogInit: Texture streaming: Enabled
+[2021.06.10-08.09.27:645][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.06.10-08.09.27:647][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.10-08.09.27:647][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.10-08.09.27:649][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.10-08.09.27:665][  0]LogInit: Transaction tracking system initialized
+[2021.06.10-08.09.27:680][  0]BlueprintLog: New page: Editor Load
+[2021.06.10-08.09.27:728][  0]LocalizationService: Localization service is disabled
+[2021.06.10-08.09.27:744][  0]TimingProfiler: Initialize
+[2021.06.10-08.09.27:745][  0]TimingProfiler: OnSessionChanged
+[2021.06.10-08.09.27:745][  0]LoadingProfiler: Initialize
+[2021.06.10-08.09.27:745][  0]LoadingProfiler: OnSessionChanged
+[2021.06.10-08.09.27:745][  0]NetworkingProfiler: Initialize
+[2021.06.10-08.09.27:745][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.10-08.09.27:745][  0]MemoryProfiler: Initialize
+[2021.06.10-08.09.27:745][  0]MemoryProfiler: OnSessionChanged
+[2021.06.10-08.09.27:836][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.10-08.09.27:836][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.10-08.09.27:947][  0]LogFileCache: Scanning file cache for directory 'D:/gitclones/KamazMuseum/KamazRES/Content/' took 0.00s
+[2021.06.10-08.09.28:099][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.06.10-08.09.28:101][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.744
+[2021.06.10-08.09.28:101][  0]Cmd: MAP LOAD FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.10-08.09.28:102][  0]LightingResults: New page: Lighting Build
+[2021.06.10-08.09.28:102][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.10-08.09.28:103][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.10-08.09.28:103][  0]MapCheck: New page: Map Check
+[2021.06.10-08.09.28:103][  0]LightingResults: New page: Lighting Build
+[2021.06.10-08.09.28:109][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.06.10-08.09.28:128][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Blueprints/Option/OptionHandler_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:142][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK_HandlerSingle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:142][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK_HandlerSingle_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:143][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/Male_Hand_AnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:144][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/Male_Hand_CanGrab.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:144][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/SK_Male_Hand_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:145][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/Male_Hand_Grip.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:145][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/Male_Hand_Idle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:145][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/OptionSelect_BS.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:145][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/Male_Hand_Pointer.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:154][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SM_OptionMesh.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:168][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SK/SK_Male_Hand.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:168][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Materials/M_Male_Hand.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:170][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SM_BeamMesh.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:175][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:175][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Player/ArchVis_Tablet_BP.ArchVis_Tablet_BP_C Referenced by NODE_AddChildActorComponent-1
+[2021.06.10-08.09.28:175][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:175][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Player/ArchVis_Tablet_BP.ArchVis_Tablet_BP_C Referenced by NODE_AddChildActorComponent-1
+[2021.06.10-08.09.28:176][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Blueprints/Option/TabletTeleporterOption_BP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:177][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:177][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by NODE_AddChildActorComponent-1
+[2021.06.10-08.09.28:178][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SM_OptionMesh_Circle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:178][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Materials/Option/MI_Option_Circle_Holo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:178][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Textures/OptionMap_Circle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:180][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SM_FloorMap.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:180][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Materials/MI_FloorMap.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:180][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Textures/T_Floor_1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:181][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SM_PlayerIcon.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:183][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Meshes/SM_Tablet.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:183][  0]LogLinker: Warning: Asset '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Materials/Option/MI_TabletOption.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.10-08.09.28:184][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:184][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by NODE_AddChildActorComponent-1
+[2021.06.10-08.09.28:185][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:185][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP Referenced by NODE_AddChildActorComponent-1
+[2021.06.10-08.09.28:185][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:185][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by ArchVis_Tablet_BP
+[2021.06.10-08.09.28:186][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:186][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_CallFunction_104
+[2021.06.10-08.09.28:186][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:186][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_CallFunction_104
+[2021.06.10-08.09.28:186][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:186][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_CallArrayFunction_0
+[2021.06.10-08.09.28:186][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:186][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_Knot_1
+[2021.06.10-08.09.28:187][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:187][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_Knot_1
+[2021.06.10-08.09.28:187][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:187][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_CallFunction_201
+[2021.06.10-08.09.28:187][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:187][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_CallFunction_201
+[2021.06.10-08.09.28:187][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:187][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_VariableSet_231
+[2021.06.10-08.09.28:187][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:187][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_VariableSet_231
+[2021.06.10-08.09.28:187][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:187][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_GetArrayItem_0
+[2021.06.10-08.09.28:187][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:187][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_GetArrayItem_0
+[2021.06.10-08.09.28:188][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:188][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_VariableGet_300
+[2021.06.10-08.09.28:189][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:189][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_VariableGet_37
+[2021.06.10-08.09.28:189][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:189][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_CallFunction_241
+[2021.06.10-08.09.28:189][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:189][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_CallFunction_241
+[2021.06.10-08.09.28:191][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Option\TabletTeleporterOption_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:191][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP.ArchVisVR_Map_BP_C Referenced by K2Node_VariableGet_300
+[2021.06.10-08.09.28:193][  0]LogLinker: Warning: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: Failed to load '/Game/ArchVisVR/Blueprints/Actor/ArchVisVR_Map_BP': Can't find file.
+[2021.06.10-08.09.28:193][  0]LoadErrors: Failed to load /Game/ArchVisVR/Blueprints/Player/ArchVis_Tablet_BP.ArchVis_Tablet_BP_C Referenced by NODE_AddChildActorComponent-1
+[2021.06.10-08.09.28:385][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Object References is not compatible with Array of Actor Object References.' at  Get (a copy)
+[2021.06.10-08.09.28:385][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Get Current Floor Info . Please refresh node or break links to remove pin.
+[2021.06.10-08.09.28:385][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Get Current Floor Info . Please refresh node or break links to remove pin.
+[2021.06.10-08.09.28:385][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Current Floor Info . Please refresh node or break links to remove pin.
+[2021.06.10-08.09.28:385][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] In use pin  Floor Info  no longer exists on node  Get Current Floor Info . Please refresh node or break links to remove pin.
+[2021.06.10-08.09.28:385][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] Could not find a function named "GetCurrentFloorInfo" in 'ArchVis_Tablet_BP'.
+Make sure 'ArchVis_Tablet_BP' has been compiled for  Get Current Floor Info
+[2021.06.10-08.09.28:385][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] In use pin  Level Map  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2021.06.10-08.09.28:385][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2021.06.10-08.09.28:388][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] In use pin  Level Map  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2021.06.10-08.09.28:391][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] In use pin  Level Map  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2021.06.10-08.09.28:391][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Get All Main Teleporters . Please refresh node or break links to remove pin.
+[2021.06.10-08.09.28:391][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Get All Main Teleporters . Please refresh node or break links to remove pin.
+[2021.06.10-08.09.28:391][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] In use pin  Target  no longer exists on node  Get All Main Teleporters . Please refresh node or break links to remove pin.
+[2021.06.10-08.09.28:391][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] In use pin  New Teleporters  no longer exists on node  Get All Main Teleporters . Please refresh node or break links to remove pin.
+[2021.06.10-08.09.28:391][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] Could not find a function named "GetAllMainTeleporters" in 'ArchVis_Tablet_BP'.
+Make sure 'ArchVis_Tablet_BP' has been compiled for  Get All Main Teleporters
+[2021.06.10-08.09.28:395][  0]LogBlueprint: Error: [AssetLog] D:\gitclones\KamazMuseum\KamazRES\Content\ArchVisVR\Blueprints\Player\ArchVis_Tablet_BP.uasset: [Compiler] In use pin  Level Map  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2021.06.10-08.09.28:750][  0]LogMaterial: Display: Missing cached shader map for material M_Tiles_Mat, compiling. 
+[2021.06.10-08.09.30:102][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.06.10-08.09.30:102][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.06.10-08.09.30:102][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.06.10-08.09.30:113][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2021.06.10-08.09.30:114][  0]LogAIModule: Creating AISystem for world Overview
+[2021.06.10-08.09.30:140][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.10-08.09.30:165][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.06.10-08.09.30:169][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.10-08.09.30:169][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,188ms to complete.
+[2021.06.10-08.09.30:169][  0]LogFileHelpers: Loading map 'Overview' took 2.067
+[2021.06.10-08.09.30:169][  0]LogAssetRegistry: Flushing asset discovery search because of synchronous request, this can take several seconds...
+[2021.06.10-08.09.30:192][  0]LogAssetRegistry: Asset discovery search completed in 0.0226 seconds
+[2021.06.10-08.09.30:193][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.06.10-08.09.30:196][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.838
+[2021.06.10-08.09.30:322][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.10-08.09.30:329][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.10-08.09.30:337][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.10-08.09.30:344][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.10-08.09.30:362][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0102 seconds. Added 3611 classes and 865 folders.
+[2021.06.10-08.09.30:368][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.10-08.09.30:371][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.10-08.09.30:371][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:371][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.10-08.09.30:371][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.06.10-08.09.30:371][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.10-08.09.30:371][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:371][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.10-08.09.30:371][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.06.10-08.09.30:372][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.10-08.09.30:372][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:372][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.10-08.09.30:372][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.06.10-08.09.30:372][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.10-08.09.30:372][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:372][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.10-08.09.30:372][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.06.10-08.09.30:373][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.10-08.09.30:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.10-08.09.30:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.06.10-08.09.30:373][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.10-08.09.30:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.10-08.09.30:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.06.10-08.09.30:374][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.10-08.09.30:374][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:374][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.10-08.09.30:374][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.06.10-08.09.30:375][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.10-08.09.30:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.10-08.09.30:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.06.10-08.09.30:375][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.10-08.09.30:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.10-08.09.30:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.06.10-08.09.30:376][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.10-08.09.30:376][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:376][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.10-08.09.30:376][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.06.10-08.09.30:376][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.10-08.09.30:376][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:376][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.10-08.09.30:377][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.06.10-08.09.30:377][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.10-08.09.30:377][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:377][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.10-08.09.30:377][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.06.10-08.09.30:378][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.10-08.09.30:378][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:378][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.10-08.09.30:378][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.06.10-08.09.30:378][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.10-08.09.30:378][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:378][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.10-08.09.30:378][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.06.10-08.09.30:379][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.10-08.09.30:379][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:379][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.10-08.09.30:379][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.06.10-08.09.30:379][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.10-08.09.30:379][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:379][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.10-08.09.30:379][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.06.10-08.09.30:380][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.10-08.09.30:380][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:380][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.10-08.09.30:380][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.06.10-08.09.30:380][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.10-08.09.30:380][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:380][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.10-08.09.30:380][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.06.10-08.09.30:381][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.10-08.09.30:381][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:381][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.10-08.09.30:381][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.06.10-08.09.30:381][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.10-08.09.30:381][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:381][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.10-08.09.30:381][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.06.10-08.09.30:382][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.10-08.09.30:382][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:382][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.10-08.09.30:382][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.06.10-08.09.30:382][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.10-08.09.30:382][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:382][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.10-08.09.30:382][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.06.10-08.09.30:383][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.10-08.09.30:383][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:383][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.10-08.09.30:383][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.06.10-08.09.30:383][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.10-08.09.30:383][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:383][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.10-08.09.30:383][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.06.10-08.09.30:384][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.10-08.09.30:384][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:384][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.10-08.09.30:384][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.06.10-08.09.30:384][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.10-08.09.30:384][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.10-08.09.30:384][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.10-08.09.30:384][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.06.10-08.09.30:419][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.10-08.09.30:423][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.06.10-08.09.30:526][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.10-08.09.30:528][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.10-08.09.30:532][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.10-08.09.30:621][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2021.06.10-08.09.30:673][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.10-08.09.30:793][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.10-08.09.30:795][  0]LogInput: Warning: Action TeleportRight uses invalid key OculusGo_Right_Trackpad_Click.
+[2021.06.10-08.09.30:795][  0]LogInput: Warning: Action GrabLeft uses invalid key OculusGo_Left_Trigger_Click.
+[2021.06.10-08.09.30:795][  0]LogInput: Warning: Action GrabRight uses invalid key OculusGo_Right_Trigger_Click.
+[2021.06.10-08.09.30:795][  0]LogInput: Warning: Action TeleportLeft uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.06.10-08.09.30:795][  0]LogInput: Warning: Action OpenMenuTakeShot uses invalid key OculusGo_Right_Back_Click.
+[2021.06.10-08.09.30:795][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.06.10-08.09.30:795][  0]LogLoad: (Engine Initialization) Total time: 7.44 seconds
+[2021.06.10-08.09.30:795][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.10-08.09.30:795][  0]LogInit: First time updating LLM stats...
+[2021.06.10-08.09.30:805][  0]LogOcInput: OculusInput is initialized
+[2021.06.10-08.09.30:809][  0]LoadErrors: Error: /Game/ArchVisVR/Blueprints/Option/TabletTeleporterOption_BP  : Failed import for ObjectProperty /Game/ArchVisVR/Blueprints/Option/OptionType/ArchVisVR_TeleporterOption.ArchVisVR_TeleporterOption:Picture_2_4096544949A3076D8CBC0FACC53E31E3 Referenced by export Function /Game/ArchVisVR/Blueprints/Option/TabletTeleporterOption_BP.TabletTeleporterOption_BP_C:InitializeOption
+[2021.06.10-08.09.30:886][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.10-08.09.30:969][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.10-08.09.30:977][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2021.06.10-08.09.33:349][252]LogSlate: Window 'Message Log' being destroyed
+[2021.06.10-08.09.33:352][252]LogSlate: Window 'Message Log' being destroyed
+[2021.06.10-08.09.45:218][652]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.10-08.09.45:233][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVisVR/Maps/Overview" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.10-08.09.45:238][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.06.10-08.09.45:329][652]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/OverviewC35624D344DF2DE676A3ED9A88118D6C.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview.umap'
+[2021.06.10-08.09.45:383][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArchVisVR/Maps/Overview_BuiltData" FILE="../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview_BuiltData.uasset" SILENT=true
+[2021.06.10-08.09.45:506][652]LogSavePackage: Moving '../../../../../gitclones/KamazMuseum/KamazRES/Saved/Overview_BuiltData244C28E34BF124E47E7A3A94572742B4.tmp' to '../../../../../gitclones/KamazMuseum/KamazRES/Content/ArchVisVR/Maps/Overview_BuiltData.uasset'
+[2021.06.10-08.09.45:512][652]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.10-08.09.45:512][652]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArchVisVR/Maps/Overview_BuiltData.Overview_BuiltData
+[2021.06.10-08.09.45:512][652]LogContentValidation: Display: Validating World /Game/ArchVisVR/Maps/Overview.Overview
